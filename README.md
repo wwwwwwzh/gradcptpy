@@ -4,10 +4,10 @@
 An implementation in [PsychoPy](https://www.psychopy.org/) of the gradual
 onset continuous performance task (GradCPT; originally developed by [Mike
 Esterman and
-colleagues](https://academic.oup.com/cercor/article/23/11/2712/303412).
+colleagues](https://academic.oup.com/cercor/article/23/11/2712/303412)).
 
 ![gradcpt_demo](demo/demo.gif)
-* A (very slow) demo of the GradCPT task*
+*A (very slow) demo of the GradCPT task*
 
 
 This is a basic template of the GradCPT task with interleaved experience
@@ -133,7 +133,7 @@ at the time the stimulus on trial t was at 100% coherence.
 * During experience sampling items, I chose to initialize the mouse at a
     slighly jittered position at the bottom of the screen to prevent a bias
     to respond similarly to the previous trial.
-* GradCPT response collection will only parse one keyboard response per
+* GradCPT response collection will only parse the first keyboard response per
     frame.
 * When testing the experiment with a 800 ms transition speed, the measured
     transition speed averaged at about 817 ms (probably an extra frame
