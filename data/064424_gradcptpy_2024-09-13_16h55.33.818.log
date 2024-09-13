@@ -1,0 +1,1344 @@
+6.3847 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+6.3871 	INFO 	Loaded monitor calibration from ['2024_09_13 09:37']
+6.6129 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477520>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE4774C0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477310>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000209EE58A170>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.6130 	EXP 	window1: backgroundImage = ''
+6.6130 	EXP 	window1: backgroundFit = 'none'
+6.6132 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477640>
+6.6135 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477640>
+6.6175 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477640>
+6.6185 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477640>
+6.6262 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6274 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6285 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6298 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6310 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6317 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6326 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6339 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6343 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6348 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6358 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6368 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6377 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6387 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6395 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6406 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6417 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6424 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6430 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6443 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6449 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6454 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.6470 	DEBUG 	Upload of Texture Font fontname complete
+6.6492 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477640>
+6.6493 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477640>
+6.6503 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477640>
+6.6513 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000209EE477640>
+6.6578 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6592 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6604 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.6609 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.6615 	DEBUG 	Upload of Texture Font fontname complete
+6.6645 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.6645 	EXP 	window1: recordFrameIntervals = False
+6.8417 	EXP 	window1: recordFrameIntervals = True
+7.0254 	EXP 	Screen (0) actual frame rate measured at 59.94Hz
+7.0254 	EXP 	window1: recordFrameIntervals = False
+7.0256 	EXP 	window1: mouseVisible = False
+7.0260 	EXP 	window1: mouseVisible = False
+7.0262 	EXP 	window1: mouseVisible = False
+7.0273 	EXP 	window1: mouseVisible = False
+7.0282 	EXP 	window1: mouseVisible = False
+7.0345 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0352 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0363 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0376 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0389 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0402 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0409 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0421 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0435 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0447 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0452 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.0462 	DEBUG 	Upload of Texture Font fontname complete
+7.0484 	EXP 	window1: mouseVisible = False
+7.0485 	EXP 	window1: mouseVisible = False
+7.0495 	EXP 	window1: mouseVisible = False
+7.0504 	EXP 	window1: mouseVisible = False
+7.0762 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+9.9063 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9063 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9064 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9064 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9065 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9065 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9066 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9066 	EXP 	gradcptpy: status = STARTED
+9.9851 	EXP 	window1: mouseVisible = False
+10.0795 	EXP 	Created frame_rate_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='frame_rate_prompt', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Trying to estimate frame rate....', units='height', win=Window(...), wrapWidth=1)
+10.0796 	EXP 	window1: mouseVisible = False
+10.1002 	EXP 	Created welcome_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.1003 	EXP 	window1: mouseVisible = False
+10.1017 	EXP 	Created gradcpt_prep_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='gradcpt_prep_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.1018 	EXP 	window1: mouseVisible = False
+10.1032 	EXP 	Created black_start_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='black_start_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.1033 	EXP 	window1: mouseVisible = False
+10.1048 	EXP 	Created prepare_block_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='prepare_block_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.1049 	EXP 	window1: mouseVisible = False
+10.1106 	EXP 	Created gradcpt_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='gradcpt_image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+10.1107 	EXP 	window1: mouseVisible = False
+10.1118 	EXP 	Created es_text_component_gradcpt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='es_text_component_gradcpt', opacity=1, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.1330 	EXP 	window1: mouseVisible = False
+10.1354 	EXP 	window1: mouseVisible = False
+10.1399 	EXP 	window1: mouseVisible = False
+10.1472 	EXP 	Created es_gradcpt_slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='es_gradcpt_slider', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([0, 1]), units='height', win=Window(...))
+10.1473 	EXP 	window1: mouseVisible = False
+10.1484 	EXP 	Created low_anchor_gradcpt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='low_anchor_gradcpt', opacity=1, ori=0.0, pos=array([-0.5 , -0.15]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.1485 	EXP 	window1: mouseVisible = False
+10.1495 	EXP 	Created high_anchor_gradcpt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='high_anchor_gradcpt', opacity=1, ori=0.0, pos=array([ 0.5 , -0.15]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.1495 	EXP 	window1: mouseVisible = False
+10.1552 	EXP 	Created enter_advance_gradcpt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='enter_advance_gradcpt', opacity=1, ori=0.0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='Press "Enter" to advance.', units='height', win=Window(...), wrapWidth=1)
+10.1553 	EXP 	window1: mouseVisible = False
+10.1583 	EXP 	Created es_gradcpt_isi_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='es_gradcpt_isi_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+10.1583 	EXP 	window1: mouseVisible = False
+10.1593 	EXP 	Created prepare_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='prepare_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.1594 	EXP 	window1: mouseVisible = False
+10.1652 	EXP 	Created block_rest_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='block_rest_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.1653 	EXP 	window1: mouseVisible = False
+10.1663 	EXP 	Created debrief_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='debrief_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.1663 	EXP 	window1: mouseVisible = False
+10.1710 	EXP 	Created thanks_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thanks_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for your participation!', units='height', win=Window(...), wrapWidth=1)
+0.0070 	EXP 	es_gradcpt_slider: autoLog = True
+0.0070 	EXP 	es_gradcpt_slider: styleTweaks = []
+0.0070 	EXP 	es_gradcpt_slider: styleTweaks = []
+0.0070 	EXP 	es_gradcpt_slider: styleTweaks = []
+0.0070 	EXP 	es_gradcpt_slider: styleTweaks = []
+0.0070 	EXP 	es_gradcpt_slider: contrast = 1.0
+0.0070 	EXP 	es_gradcpt_slider: markerPos = None
+0.0070 	EXP 	es_gradcpt_slider: autoLog = True
+0.0131 	EXP 	window1: mouseVisible = False
+0.0271 	EXP 	frame_rate_prompt: autoDraw = True
+5.0162 	EXP 	window1: mouseVisible = False
+5.0299 	INFO 	Keyboard events cleared
+5.0296 	EXP 	frame_rate_prompt: autoDraw = False
+5.0296 	EXP 	welcome_text: autoDraw = True
+5.6358 	DATA 	Keypress: space
+5.6467 	INFO 	Keyboard events cleared
+5.6463 	EXP 	welcome_text: autoDraw = False
+5.6463 	EXP 	gradcpt_prep_text: height = 0.03
+5.6463 	EXP 	gradcpt_prep_text: height = 0.03
+5.6463 	EXP 	gradcpt_prep_text: height = 0.03
+5.6463 	EXP 	gradcpt_prep_text: text = 'Now you will perform the attention task. A series of pictures will gradually be presented on the screen one after another. In this phase of the experiment, you will press the f key when you see a picture of a city scene, and you will press nothing when you see a picture of a mountain scene. It is important to respond as quickly and accurately as possible and to keep both hands on the keyboard at all times.\n\nWhen you answer thought probes during this phase, remember to again be as honest as possible. Whether you indicate that your attention was or was not on task will not affect your participation. \n\nPress the space bar to see the response mappings one more time before beginning.'
+5.6463 	EXP 	gradcpt_prep_text: autoDraw = True
+6.0682 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+6.0823 	DATA 	Keypress: space
+6.0974 	INFO 	Keyboard events cleared
+6.0970 	EXP 	gradcpt_prep_text: autoDraw = False
+6.0970 	EXP 	black_start_text: height = 0.03
+6.0970 	EXP 	black_start_text: height = 0.03
+6.0970 	EXP 	black_start_text: height = 0.03
+6.0970 	EXP 	black_start_text: text = 'Key for city scenes: f\n When you see a mountain scene, do not make a response.\n\nPress the space bar to begin.'
+6.0970 	EXP 	black_start_text: autoDraw = True
+7.7682 	DATA 	Keypress: space
+7.7819 	EXP 	black_start_text: autoDraw = False
+7.7819 	EXP 	prepare_block_text: autoDraw = True
+12.7750 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+12.7752 	INFO 	keyboard.Keyboard is using iohub backend.
+12.7882 	EXP 	prepare_block_text: autoDraw = False
+12.7882 	EXP 	gradcpt_image: autoDraw = True
+13.3593 	INFO 	Keyboard events cleared
+13.3614 	DATA 	Keypress: f
+14.1436 	INFO 	Keyboard events cleared
+14.1458 	DATA 	Keypress: f
+14.9443 	INFO 	Keyboard events cleared
+14.9463 	DATA 	Keypress: f
+15.7788 	INFO 	Keyboard events cleared
+15.7809 	DATA 	Keypress: f
+16.7462 	INFO 	Keyboard events cleared
+16.7483 	DATA 	Keypress: f
+17.5972 	INFO 	Keyboard events cleared
+17.5993 	DATA 	Keypress: f
+18.4164 	DATA 	Keypress: f
+18.4313 	INFO 	Keyboard events cleared
+19.2156 	INFO 	Keyboard events cleared
+19.2177 	DATA 	Keypress: f
+20.0496 	INFO 	Keyboard events cleared
+20.0516 	DATA 	Keypress: f
+21.6180 	INFO 	Keyboard events cleared
+21.6201 	DATA 	Keypress: f
+22.3690 	INFO 	Keyboard events cleared
+22.3715 	DATA 	Keypress: f
+23.2031 	INFO 	Keyboard events cleared
+23.2051 	DATA 	Keypress: f
+24.0206 	INFO 	Keyboard events cleared
+24.0227 	DATA 	Keypress: f
+24.8214 	INFO 	Keyboard events cleared
+24.8235 	DATA 	Keypress: f
+25.6558 	INFO 	Keyboard events cleared
+25.6579 	DATA 	Keypress: f
+26.5233 	INFO 	Keyboard events cleared
+26.5255 	DATA 	Keypress: f
+27.3242 	INFO 	Keyboard events cleared
+27.3266 	DATA 	Keypress: f
+28.1081 	INFO 	Keyboard events cleared
+28.1102 	DATA 	Keypress: f
+29.8269 	INFO 	Keyboard events cleared
+29.8289 	DATA 	Keypress: f
+30.5969 	DATA 	Keypress: f
+30.6109 	INFO 	Keyboard events cleared
+31.3952 	INFO 	Keyboard events cleared
+31.3973 	DATA 	Keypress: f
+32.1794 	INFO 	Keyboard events cleared
+32.1815 	DATA 	Keypress: f
+32.9801 	INFO 	Keyboard events cleared
+32.9823 	DATA 	Keypress: f
+33.8980 	INFO 	Keyboard events cleared
+33.9006 	DATA 	Keypress: f
+34.7655 	INFO 	Keyboard events cleared
+34.7676 	DATA 	Keypress: f
+36.4171 	INFO 	Keyboard events cleared
+36.4192 	DATA 	Keypress: f
+37.1680 	INFO 	Keyboard events cleared
+37.1700 	DATA 	Keypress: f
+37.9019 	INFO 	Keyboard events cleared
+37.9040 	DATA 	Keypress: f
+38.8697 	INFO 	Keyboard events cleared
+38.8718 	DATA 	Keypress: f
+39.6207 	INFO 	Keyboard events cleared
+39.6227 	DATA 	Keypress: f
+40.3879 	INFO 	Keyboard events cleared
+40.3899 	DATA 	Keypress: f
+41.1889 	INFO 	Keyboard events cleared
+41.1910 	DATA 	Keypress: f
+41.9564 	INFO 	Keyboard events cleared
+41.9585 	DATA 	Keypress: f
+42.8073 	INFO 	Keyboard events cleared
+42.8094 	DATA 	Keypress: f
+43.6416 	INFO 	Keyboard events cleared
+43.6436 	DATA 	Keypress: f
+45.4267 	INFO 	Keyboard events cleared
+45.4288 	DATA 	Keypress: f
+46.1446 	INFO 	Keyboard events cleared
+46.1473 	DATA 	Keypress: f
+46.9620 	INFO 	Keyboard events cleared
+46.9641 	DATA 	Keypress: f
+47.7459 	INFO 	Keyboard events cleared
+47.7479 	DATA 	Keypress: f
+47.9336 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+47.9340 	EXP 	window1: mouseVisible = True
+47.9580 	EXP 	gradcpt_image: autoDraw = False
+47.9580 	EXP 	es_text_component_gradcpt: height = 0.05
+47.9580 	EXP 	es_text_component_gradcpt: height = 0.05
+47.9580 	EXP 	es_text_component_gradcpt: height = 0.05
+47.9580 	EXP 	es_text_component_gradcpt: text = 'Were your thoughts freely moving?'
+47.9580 	EXP 	es_gradcpt_slider: markerPos = None
+47.9580 	EXP 	es_gradcpt_slider: markerPos = None
+47.9580 	EXP 	low_anchor_gradcpt: height = 0.05
+47.9580 	EXP 	low_anchor_gradcpt: height = 0.05
+47.9580 	EXP 	low_anchor_gradcpt: height = 0.05
+47.9580 	EXP 	low_anchor_gradcpt: text = 'unmoving'
+47.9580 	EXP 	high_anchor_gradcpt: height = 0.05
+47.9580 	EXP 	high_anchor_gradcpt: height = 0.05
+47.9580 	EXP 	high_anchor_gradcpt: height = 0.05
+47.9580 	EXP 	high_anchor_gradcpt: text = 'moving freely'
+47.9580 	EXP 	es_text_component_gradcpt: autoDraw = True
+47.9580 	EXP 	es_gradcpt_slider: autoDraw = True
+47.9580 	EXP 	low_anchor_gradcpt: autoDraw = True
+47.9580 	EXP 	high_anchor_gradcpt: autoDraw = True
+49.6812 	DATA 	Mouse: Left button down, pos=(528,277)
+49.6937 	EXP 	es_gradcpt_slider: markerPos = 0.7133333333333334
+49.7104 	EXP 	es_gradcpt_slider: markerPos = 0.7133333333333334
+49.7176 	DATA 	Mouse:  Left button up, pos=(528,277)
+49.7272 	EXP 	es_gradcpt_slider: markerPos = 0.7133333333333334
+49.7438 	EXP 	es_gradcpt_slider: markerPos = 0.7133333333333334
+49.7609 	INFO 	Keyboard events cleared
+49.7605 	EXP 	enter_advance_gradcpt: autoDraw = True
+50.1990 	EXP 	window1: mouseVisible = False
+50.2008 	DATA 	Keypress: return
+50.2110 	EXP 	es_text_component_gradcpt: autoDraw = False
+50.2110 	EXP 	es_gradcpt_slider: autoDraw = False
+50.2110 	EXP 	low_anchor_gradcpt: autoDraw = False
+50.2110 	EXP 	high_anchor_gradcpt: autoDraw = False
+50.2110 	EXP 	enter_advance_gradcpt: autoDraw = False
+50.2110 	EXP 	es_gradcpt_isi_text: autoDraw = True
+50.6983 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+50.6986 	EXP 	window1: mouseVisible = True
+50.7278 	EXP 	es_gradcpt_isi_text: autoDraw = False
+50.7278 	EXP 	es_gradcpt_isi_text: autoDraw = False
+50.7278 	EXP 	es_text_component_gradcpt: height = 0.05
+50.7278 	EXP 	es_text_component_gradcpt: height = 0.05
+50.7278 	EXP 	es_text_component_gradcpt: height = 0.05
+50.7278 	EXP 	es_text_component_gradcpt: text = 'Where was your attention during the previous trial?'
+50.7278 	EXP 	es_gradcpt_slider: markerPos = None
+50.7278 	EXP 	es_gradcpt_slider: markerPos = None
+50.7278 	EXP 	low_anchor_gradcpt: height = 0.05
+50.7278 	EXP 	low_anchor_gradcpt: height = 0.05
+50.7278 	EXP 	low_anchor_gradcpt: height = 0.05
+50.7278 	EXP 	low_anchor_gradcpt: text = 'on-task'
+50.7278 	EXP 	high_anchor_gradcpt: height = 0.05
+50.7278 	EXP 	high_anchor_gradcpt: height = 0.05
+50.7278 	EXP 	high_anchor_gradcpt: height = 0.05
+50.7278 	EXP 	high_anchor_gradcpt: text = 'off-task'
+50.7278 	EXP 	es_text_component_gradcpt: autoDraw = True
+50.7278 	EXP 	es_gradcpt_slider: autoDraw = True
+50.7278 	EXP 	low_anchor_gradcpt: autoDraw = True
+50.7278 	EXP 	high_anchor_gradcpt: autoDraw = True
+51.2506 	DATA 	Mouse: Left button down, pos=(297,310)
+51.2621 	EXP 	es_gradcpt_slider: markerPos = 0.32833333333333337
+51.2788 	EXP 	es_gradcpt_slider: markerPos = 0.32833333333333337
+51.2957 	EXP 	es_gradcpt_slider: markerPos = 0.32833333333333337
+51.2999 	DATA 	Mouse:  Left button up, pos=(297,310)
+51.3121 	EXP 	es_gradcpt_slider: markerPos = 0.32833333333333337
+51.3293 	INFO 	Keyboard events cleared
+51.3289 	EXP 	enter_advance_gradcpt: autoDraw = True
+51.6169 	EXP 	window1: mouseVisible = False
+51.6179 	DATA 	Keypress: return
+51.6290 	EXP 	es_text_component_gradcpt: autoDraw = False
+51.6290 	EXP 	es_gradcpt_slider: autoDraw = False
+51.6290 	EXP 	low_anchor_gradcpt: autoDraw = False
+51.6290 	EXP 	high_anchor_gradcpt: autoDraw = False
+51.6290 	EXP 	enter_advance_gradcpt: autoDraw = False
+51.6290 	EXP 	es_gradcpt_isi_text: autoDraw = True
+52.1166 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+52.1169 	EXP 	window1: mouseVisible = True
+52.1459 	EXP 	es_gradcpt_isi_text: autoDraw = False
+52.1459 	EXP 	es_gradcpt_isi_text: autoDraw = False
+52.1459 	EXP 	es_text_component_gradcpt: height = 0.05
+52.1459 	EXP 	es_text_component_gradcpt: height = 0.05
+52.1459 	EXP 	es_text_component_gradcpt: height = 0.05
+52.1459 	EXP 	es_text_component_gradcpt: text = 'How difficult was it to disengage from your thoughts?'
+52.1459 	EXP 	es_gradcpt_slider: markerPos = None
+52.1459 	EXP 	es_gradcpt_slider: markerPos = None
+52.1459 	EXP 	low_anchor_gradcpt: height = 0.05
+52.1459 	EXP 	low_anchor_gradcpt: height = 0.05
+52.1459 	EXP 	low_anchor_gradcpt: height = 0.05
+52.1459 	EXP 	low_anchor_gradcpt: text = 'extremely\neasy'
+52.1459 	EXP 	high_anchor_gradcpt: height = 0.05
+52.1459 	EXP 	high_anchor_gradcpt: height = 0.05
+52.1459 	EXP 	high_anchor_gradcpt: height = 0.05
+52.1459 	EXP 	high_anchor_gradcpt: text = 'extremely\ndifficult'
+52.1459 	EXP 	es_text_component_gradcpt: autoDraw = True
+52.1459 	EXP 	es_gradcpt_slider: autoDraw = True
+52.1459 	EXP 	low_anchor_gradcpt: autoDraw = True
+52.1459 	EXP 	high_anchor_gradcpt: autoDraw = True
+52.5528 	DATA 	Mouse: Left button down, pos=(459,289)
+52.5636 	EXP 	es_gradcpt_slider: markerPos = 0.5983333333333334
+52.5805 	EXP 	es_gradcpt_slider: markerPos = 0.5983333333333334
+52.5972 	EXP 	es_gradcpt_slider: markerPos = 0.5983333333333334
+52.6017 	DATA 	Mouse:  Left button up, pos=(459,289)
+52.6136 	EXP 	es_gradcpt_slider: markerPos = 0.5983333333333334
+52.6306 	INFO 	Keyboard events cleared
+52.6303 	EXP 	enter_advance_gradcpt: autoDraw = True
+52.7182 	EXP 	window1: mouseVisible = False
+52.7193 	DATA 	Keypress: return
+52.7304 	EXP 	es_text_component_gradcpt: autoDraw = False
+52.7304 	EXP 	es_gradcpt_slider: autoDraw = False
+52.7304 	EXP 	low_anchor_gradcpt: autoDraw = False
+52.7304 	EXP 	high_anchor_gradcpt: autoDraw = False
+52.7304 	EXP 	enter_advance_gradcpt: autoDraw = False
+52.7304 	EXP 	es_gradcpt_isi_text: autoDraw = True
+53.2178 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+53.2181 	EXP 	window1: mouseVisible = True
+53.2471 	EXP 	es_gradcpt_isi_text: autoDraw = False
+53.2471 	EXP 	es_gradcpt_isi_text: autoDraw = False
+53.2471 	EXP 	es_text_component_gradcpt: height = 0.05
+53.2471 	EXP 	es_text_component_gradcpt: height = 0.05
+53.2471 	EXP 	es_text_component_gradcpt: height = 0.05
+53.2471 	EXP 	es_text_component_gradcpt: text = 'How intentional were your thoughts?'
+53.2471 	EXP 	es_gradcpt_slider: markerPos = None
+53.2471 	EXP 	es_gradcpt_slider: markerPos = None
+53.2471 	EXP 	low_anchor_gradcpt: height = 0.05
+53.2471 	EXP 	low_anchor_gradcpt: height = 0.05
+53.2471 	EXP 	low_anchor_gradcpt: height = 0.05
+53.2471 	EXP 	low_anchor_gradcpt: text = 'completely\nunintentional'
+53.2471 	EXP 	high_anchor_gradcpt: height = 0.05
+53.2471 	EXP 	high_anchor_gradcpt: height = 0.05
+53.2471 	EXP 	high_anchor_gradcpt: height = 0.05
+53.2471 	EXP 	high_anchor_gradcpt: text = 'completely\nintentional'
+53.2471 	EXP 	es_text_component_gradcpt: autoDraw = True
+53.2471 	EXP 	es_gradcpt_slider: autoDraw = True
+53.2471 	EXP 	low_anchor_gradcpt: autoDraw = True
+53.2471 	EXP 	high_anchor_gradcpt: autoDraw = True
+53.6026 	DATA 	Mouse: Left button down, pos=(405,303)
+53.6145 	EXP 	es_gradcpt_slider: markerPos = 0.5083333333333333
+53.6313 	EXP 	es_gradcpt_slider: markerPos = 0.5083333333333333
+53.6486 	EXP 	es_gradcpt_slider: markerPos = 0.5083333333333333
+53.6531 	DATA 	Mouse:  Left button up, pos=(405,303)
+53.6649 	EXP 	es_gradcpt_slider: markerPos = 0.5083333333333333
+53.6817 	INFO 	Keyboard events cleared
+53.6813 	EXP 	enter_advance_gradcpt: autoDraw = True
+53.7195 	EXP 	window1: mouseVisible = False
+53.7204 	DATA 	Keypress: return
+53.7313 	EXP 	es_text_component_gradcpt: autoDraw = False
+53.7313 	EXP 	es_gradcpt_slider: autoDraw = False
+53.7313 	EXP 	low_anchor_gradcpt: autoDraw = False
+53.7313 	EXP 	high_anchor_gradcpt: autoDraw = False
+53.7313 	EXP 	enter_advance_gradcpt: autoDraw = False
+53.7313 	EXP 	es_gradcpt_isi_text: autoDraw = True
+54.2189 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+54.2192 	EXP 	window1: mouseVisible = True
+54.2481 	EXP 	es_gradcpt_isi_text: autoDraw = False
+54.2481 	EXP 	es_gradcpt_isi_text: autoDraw = False
+54.2481 	EXP 	es_text_component_gradcpt: height = 0.05
+54.2481 	EXP 	es_text_component_gradcpt: height = 0.05
+54.2481 	EXP 	es_text_component_gradcpt: height = 0.05
+54.2481 	EXP 	es_text_component_gradcpt: text = 'How positive or negative were you feeling?'
+54.2481 	EXP 	es_gradcpt_slider: markerPos = None
+54.2481 	EXP 	es_gradcpt_slider: markerPos = None
+54.2481 	EXP 	low_anchor_gradcpt: height = 0.05
+54.2481 	EXP 	low_anchor_gradcpt: height = 0.05
+54.2481 	EXP 	low_anchor_gradcpt: height = 0.05
+54.2481 	EXP 	low_anchor_gradcpt: text = 'completely\nnegative'
+54.2481 	EXP 	high_anchor_gradcpt: height = 0.05
+54.2481 	EXP 	high_anchor_gradcpt: height = 0.05
+54.2481 	EXP 	high_anchor_gradcpt: height = 0.05
+54.2481 	EXP 	high_anchor_gradcpt: text = 'completely\npositive'
+54.2481 	EXP 	es_text_component_gradcpt: autoDraw = True
+54.2481 	EXP 	es_gradcpt_slider: autoDraw = True
+54.2481 	EXP 	low_anchor_gradcpt: autoDraw = True
+54.2481 	EXP 	high_anchor_gradcpt: autoDraw = True
+54.7048 	DATA 	Mouse: Left button down, pos=(504,300)
+54.7160 	EXP 	es_gradcpt_slider: markerPos = 0.6733333333333333
+54.7326 	EXP 	es_gradcpt_slider: markerPos = 0.6733333333333333
+54.7493 	EXP 	es_gradcpt_slider: markerPos = 0.6733333333333333
+54.7665 	EXP 	es_gradcpt_slider: markerPos = 0.6733333333333333
+54.7707 	DATA 	Mouse:  Left button up, pos=(504,300)
+54.7824 	EXP 	es_gradcpt_slider: markerPos = 0.6733333333333333
+54.7995 	INFO 	Keyboard events cleared
+54.7991 	EXP 	enter_advance_gradcpt: autoDraw = True
+55.2875 	EXP 	window1: mouseVisible = False
+55.2885 	DATA 	Keypress: return
+55.2998 	EXP 	es_text_component_gradcpt: autoDraw = False
+55.2998 	EXP 	es_gradcpt_slider: autoDraw = False
+55.2998 	EXP 	low_anchor_gradcpt: autoDraw = False
+55.2998 	EXP 	high_anchor_gradcpt: autoDraw = False
+55.2998 	EXP 	enter_advance_gradcpt: autoDraw = False
+55.2998 	EXP 	es_gradcpt_isi_text: autoDraw = True
+55.7877 	EXP 	New trial (rep=5, index=0): <Trial 5 (0 in rep 5) data={'thisN': 5, 'thisTrialN': 0, 'thisRepN': 5}>
+55.7881 	EXP 	window1: mouseVisible = True
+55.8173 	EXP 	es_gradcpt_isi_text: autoDraw = False
+55.8173 	EXP 	es_gradcpt_isi_text: autoDraw = False
+55.8173 	EXP 	es_text_component_gradcpt: height = 0.05
+55.8173 	EXP 	es_text_component_gradcpt: height = 0.05
+55.8173 	EXP 	es_text_component_gradcpt: height = 0.05
+55.8173 	EXP 	es_text_component_gradcpt: text = 'How confident are you about your ratings for this trial?'
+55.8173 	EXP 	es_gradcpt_slider: markerPos = None
+55.8173 	EXP 	es_gradcpt_slider: markerPos = None
+55.8173 	EXP 	low_anchor_gradcpt: height = 0.05
+55.8173 	EXP 	low_anchor_gradcpt: height = 0.05
+55.8173 	EXP 	low_anchor_gradcpt: height = 0.05
+55.8173 	EXP 	low_anchor_gradcpt: text = 'completely\nunconfident'
+55.8173 	EXP 	high_anchor_gradcpt: height = 0.05
+55.8173 	EXP 	high_anchor_gradcpt: height = 0.05
+55.8173 	EXP 	high_anchor_gradcpt: height = 0.05
+55.8173 	EXP 	high_anchor_gradcpt: text = 'completely\nconfident'
+55.8173 	EXP 	es_text_component_gradcpt: autoDraw = True
+55.8173 	EXP 	es_gradcpt_slider: autoDraw = True
+55.8173 	EXP 	low_anchor_gradcpt: autoDraw = True
+55.8173 	EXP 	high_anchor_gradcpt: autoDraw = True
+56.7724 	DATA 	Mouse: Left button down, pos=(445,303)
+56.7846 	EXP 	es_gradcpt_slider: markerPos = 0.575
+56.8012 	EXP 	es_gradcpt_slider: markerPos = 0.575
+56.8180 	EXP 	es_gradcpt_slider: markerPos = 0.575
+56.8346 	EXP 	es_gradcpt_slider: markerPos = 0.575
+56.8390 	DATA 	Mouse:  Left button up, pos=(445,303)
+56.8513 	EXP 	es_gradcpt_slider: markerPos = 0.575
+56.8684 	INFO 	Keyboard events cleared
+56.8680 	EXP 	enter_advance_gradcpt: autoDraw = True
+57.7235 	EXP 	window1: mouseVisible = False
+57.7245 	DATA 	Keypress: return
+57.7357 	EXP 	es_text_component_gradcpt: autoDraw = False
+57.7357 	EXP 	es_gradcpt_slider: autoDraw = False
+57.7357 	EXP 	low_anchor_gradcpt: autoDraw = False
+57.7357 	EXP 	high_anchor_gradcpt: autoDraw = False
+57.7357 	EXP 	enter_advance_gradcpt: autoDraw = False
+57.7357 	EXP 	es_gradcpt_isi_text: autoDraw = True
+58.2527 	EXP 	es_gradcpt_isi_text: autoDraw = False
+58.2527 	EXP 	es_gradcpt_isi_text: autoDraw = False
+58.2527 	EXP 	prepare_text: autoDraw = True
+63.2280 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+63.2420 	EXP 	prepare_text: autoDraw = False
+63.2420 	EXP 	gradcpt_image: autoDraw = True
+63.7296 	INFO 	Keyboard events cleared
+63.7318 	DATA 	Keypress: f
+64.5973 	INFO 	Keyboard events cleared
+64.5994 	DATA 	Keypress: f
+65.3648 	INFO 	Keyboard events cleared
+65.3669 	DATA 	Keypress: f
+66.1174 	DATA 	Keypress: f
+66.1322 	INFO 	Keyboard events cleared
+66.8835 	INFO 	Keyboard events cleared
+66.8859 	DATA 	Keypress: f
+67.7506 	INFO 	Keyboard events cleared
+67.7527 	DATA 	Keypress: f
+68.5851 	INFO 	Keyboard events cleared
+68.5875 	DATA 	Keypress: f
+69.4690 	INFO 	Keyboard events cleared
+69.4711 	DATA 	Keypress: f
+70.3370 	INFO 	Keyboard events cleared
+70.3394 	DATA 	Keypress: f
+71.1876 	INFO 	Keyboard events cleared
+71.1897 	DATA 	Keypress: f
+72.1992 	INFO 	Keyboard events cleared
+72.2024 	DATA 	Keypress: f
+72.9227 	INFO 	Keyboard events cleared
+72.9248 	DATA 	Keypress: f
+73.7069 	INFO 	Keyboard events cleared
+73.7089 	DATA 	Keypress: f
+74.4762 	DATA 	Keypress: f
+74.4911 	INFO 	Keyboard events cleared
+75.3252 	INFO 	Keyboard events cleared
+75.3273 	DATA 	Keypress: f
+76.1094 	INFO 	Keyboard events cleared
+76.1115 	DATA 	Keypress: f
+76.9771 	INFO 	Keyboard events cleared
+76.9792 	DATA 	Keypress: f
+77.0956 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+77.0960 	EXP 	window1: mouseVisible = True
+77.1225 	EXP 	gradcpt_image: autoDraw = False
+77.1225 	EXP 	es_text_component_gradcpt: height = 0.05
+77.1225 	EXP 	es_text_component_gradcpt: height = 0.05
+77.1225 	EXP 	es_text_component_gradcpt: height = 0.05
+77.1225 	EXP 	es_text_component_gradcpt: text = 'Were your thoughts freely moving?'
+77.1225 	EXP 	es_gradcpt_slider: markerPos = None
+77.1225 	EXP 	es_gradcpt_slider: markerPos = None
+77.1225 	EXP 	low_anchor_gradcpt: height = 0.05
+77.1225 	EXP 	low_anchor_gradcpt: height = 0.05
+77.1225 	EXP 	low_anchor_gradcpt: height = 0.05
+77.1225 	EXP 	low_anchor_gradcpt: text = 'unmoving'
+77.1225 	EXP 	high_anchor_gradcpt: height = 0.05
+77.1225 	EXP 	high_anchor_gradcpt: height = 0.05
+77.1225 	EXP 	high_anchor_gradcpt: height = 0.05
+77.1225 	EXP 	high_anchor_gradcpt: text = 'moving freely'
+77.1225 	EXP 	es_text_component_gradcpt: autoDraw = True
+77.1225 	EXP 	es_gradcpt_slider: autoDraw = True
+77.1225 	EXP 	low_anchor_gradcpt: autoDraw = True
+77.1225 	EXP 	high_anchor_gradcpt: autoDraw = True
+78.8966 	DATA 	Mouse: Left button down, pos=(232,315)
+78.9081 	EXP 	es_gradcpt_slider: markerPos = 0.21999999999999997
+78.9248 	EXP 	es_gradcpt_slider: markerPos = 0.21999999999999997
+78.9318 	DATA 	Mouse:  Left button up, pos=(232,315)
+78.9416 	EXP 	es_gradcpt_slider: markerPos = 0.21999999999999997
+78.9582 	EXP 	es_gradcpt_slider: markerPos = 0.21999999999999997
+78.9752 	INFO 	Keyboard events cleared
+78.9749 	EXP 	enter_advance_gradcpt: autoDraw = True
+78.9957 	DATA 	Keypress: return
+79.0131 	EXP 	window1: mouseVisible = False
+79.0250 	EXP 	es_text_component_gradcpt: autoDraw = False
+79.0250 	EXP 	es_gradcpt_slider: autoDraw = False
+79.0250 	EXP 	low_anchor_gradcpt: autoDraw = False
+79.0250 	EXP 	high_anchor_gradcpt: autoDraw = False
+79.0250 	EXP 	enter_advance_gradcpt: autoDraw = False
+79.0250 	EXP 	es_gradcpt_isi_text: autoDraw = True
+79.5128 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+79.5131 	EXP 	window1: mouseVisible = True
+79.5417 	EXP 	es_gradcpt_isi_text: autoDraw = False
+79.5417 	EXP 	es_gradcpt_isi_text: autoDraw = False
+79.5417 	EXP 	es_text_component_gradcpt: height = 0.05
+79.5417 	EXP 	es_text_component_gradcpt: height = 0.05
+79.5417 	EXP 	es_text_component_gradcpt: height = 0.05
+79.5417 	EXP 	es_text_component_gradcpt: text = 'How intentional were your thoughts?'
+79.5417 	EXP 	es_gradcpt_slider: markerPos = None
+79.5417 	EXP 	es_gradcpt_slider: markerPos = None
+79.5417 	EXP 	low_anchor_gradcpt: height = 0.05
+79.5417 	EXP 	low_anchor_gradcpt: height = 0.05
+79.5417 	EXP 	low_anchor_gradcpt: height = 0.05
+79.5417 	EXP 	low_anchor_gradcpt: text = 'completely\nunintentional'
+79.5417 	EXP 	high_anchor_gradcpt: height = 0.05
+79.5417 	EXP 	high_anchor_gradcpt: height = 0.05
+79.5417 	EXP 	high_anchor_gradcpt: height = 0.05
+79.5417 	EXP 	high_anchor_gradcpt: text = 'completely\nintentional'
+79.5417 	EXP 	es_text_component_gradcpt: autoDraw = True
+79.5417 	EXP 	es_gradcpt_slider: autoDraw = True
+79.5417 	EXP 	low_anchor_gradcpt: autoDraw = True
+79.5417 	EXP 	high_anchor_gradcpt: autoDraw = True
+79.9326 	DATA 	Mouse: Left button down, pos=(544,296)
+79.9592 	EXP 	es_gradcpt_slider: markerPos = 0.74
+79.9762 	EXP 	es_gradcpt_slider: markerPos = 0.74
+79.9805 	DATA 	Mouse:  Left button up, pos=(544,296)
+79.9927 	EXP 	es_gradcpt_slider: markerPos = 0.74
+80.0097 	INFO 	Keyboard events cleared
+80.0094 	EXP 	enter_advance_gradcpt: autoDraw = True
+80.0807 	EXP 	window1: mouseVisible = False
+80.0817 	DATA 	Keypress: return
+80.0928 	EXP 	es_text_component_gradcpt: autoDraw = False
+80.0928 	EXP 	es_gradcpt_slider: autoDraw = False
+80.0928 	EXP 	low_anchor_gradcpt: autoDraw = False
+80.0928 	EXP 	high_anchor_gradcpt: autoDraw = False
+80.0928 	EXP 	enter_advance_gradcpt: autoDraw = False
+80.0928 	EXP 	es_gradcpt_isi_text: autoDraw = True
+80.5818 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+80.5820 	EXP 	window1: mouseVisible = True
+80.6097 	EXP 	es_gradcpt_isi_text: autoDraw = False
+80.6097 	EXP 	es_gradcpt_isi_text: autoDraw = False
+80.6097 	EXP 	es_text_component_gradcpt: height = 0.05
+80.6097 	EXP 	es_text_component_gradcpt: height = 0.05
+80.6097 	EXP 	es_text_component_gradcpt: height = 0.05
+80.6097 	EXP 	es_text_component_gradcpt: text = 'Where was your attention during the previous trial?'
+80.6097 	EXP 	es_gradcpt_slider: markerPos = None
+80.6097 	EXP 	es_gradcpt_slider: markerPos = None
+80.6097 	EXP 	low_anchor_gradcpt: height = 0.05
+80.6097 	EXP 	low_anchor_gradcpt: height = 0.05
+80.6097 	EXP 	low_anchor_gradcpt: height = 0.05
+80.6097 	EXP 	low_anchor_gradcpt: text = 'on-task'
+80.6097 	EXP 	high_anchor_gradcpt: height = 0.05
+80.6097 	EXP 	high_anchor_gradcpt: height = 0.05
+80.6097 	EXP 	high_anchor_gradcpt: height = 0.05
+80.6097 	EXP 	high_anchor_gradcpt: text = 'off-task'
+80.6097 	EXP 	es_text_component_gradcpt: autoDraw = True
+80.6097 	EXP 	es_gradcpt_slider: autoDraw = True
+80.6097 	EXP 	low_anchor_gradcpt: autoDraw = True
+80.6097 	EXP 	high_anchor_gradcpt: autoDraw = True
+81.0995 	DATA 	Mouse: Left button down, pos=(356,378)
+81.1659 	DATA 	Mouse:  Left button up, pos=(356,372)
+81.3496 	DATA 	Mouse: Left button down, pos=(353,332)
+81.3610 	EXP 	es_gradcpt_slider: markerPos = 0.42166666666666663
+81.3776 	EXP 	es_gradcpt_slider: markerPos = 0.42166666666666663
+81.3941 	EXP 	es_gradcpt_slider: markerPos = 0.42166666666666663
+81.3987 	DATA 	Mouse:  Left button up, pos=(353,332)
+81.4108 	EXP 	es_gradcpt_slider: markerPos = 0.42166666666666663
+81.4278 	INFO 	Keyboard events cleared
+81.4275 	EXP 	enter_advance_gradcpt: autoDraw = True
+81.6827 	EXP 	window1: mouseVisible = False
+81.6837 	DATA 	Keypress: return
+81.6949 	EXP 	es_text_component_gradcpt: autoDraw = False
+81.6949 	EXP 	es_gradcpt_slider: autoDraw = False
+81.6949 	EXP 	low_anchor_gradcpt: autoDraw = False
+81.6949 	EXP 	high_anchor_gradcpt: autoDraw = False
+81.6949 	EXP 	enter_advance_gradcpt: autoDraw = False
+81.6949 	EXP 	es_gradcpt_isi_text: autoDraw = True
+82.1835 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+82.1837 	EXP 	window1: mouseVisible = True
+82.2125 	EXP 	es_gradcpt_isi_text: autoDraw = False
+82.2125 	EXP 	es_gradcpt_isi_text: autoDraw = False
+82.2125 	EXP 	es_text_component_gradcpt: height = 0.05
+82.2125 	EXP 	es_text_component_gradcpt: height = 0.05
+82.2125 	EXP 	es_text_component_gradcpt: height = 0.05
+82.2125 	EXP 	es_text_component_gradcpt: text = 'How positive or negative were you feeling?'
+82.2125 	EXP 	es_gradcpt_slider: markerPos = None
+82.2125 	EXP 	es_gradcpt_slider: markerPos = None
+82.2125 	EXP 	low_anchor_gradcpt: height = 0.05
+82.2125 	EXP 	low_anchor_gradcpt: height = 0.05
+82.2125 	EXP 	low_anchor_gradcpt: height = 0.05
+82.2125 	EXP 	low_anchor_gradcpt: text = 'completely\nnegative'
+82.2125 	EXP 	high_anchor_gradcpt: height = 0.05
+82.2125 	EXP 	high_anchor_gradcpt: height = 0.05
+82.2125 	EXP 	high_anchor_gradcpt: height = 0.05
+82.2125 	EXP 	high_anchor_gradcpt: text = 'completely\npositive'
+82.2125 	EXP 	es_text_component_gradcpt: autoDraw = True
+82.2125 	EXP 	es_gradcpt_slider: autoDraw = True
+82.2125 	EXP 	low_anchor_gradcpt: autoDraw = True
+82.2125 	EXP 	high_anchor_gradcpt: autoDraw = True
+83.0840 	DATA 	Mouse: Left button down, pos=(381,309)
+83.0959 	EXP 	es_gradcpt_slider: markerPos = 0.4683333333333333
+83.1126 	EXP 	es_gradcpt_slider: markerPos = 0.4683333333333333
+83.1206 	DATA 	Mouse:  Left button up, pos=(381,309)
+83.1293 	EXP 	es_gradcpt_slider: markerPos = 0.4683333333333333
+83.1461 	EXP 	es_gradcpt_slider: markerPos = 0.4683333333333333
+83.1631 	INFO 	Keyboard events cleared
+83.1627 	EXP 	enter_advance_gradcpt: autoDraw = True
+83.3006 	EXP 	window1: mouseVisible = False
+83.3017 	DATA 	Keypress: return
+83.3128 	EXP 	es_text_component_gradcpt: autoDraw = False
+83.3128 	EXP 	es_gradcpt_slider: autoDraw = False
+83.3128 	EXP 	low_anchor_gradcpt: autoDraw = False
+83.3128 	EXP 	high_anchor_gradcpt: autoDraw = False
+83.3128 	EXP 	enter_advance_gradcpt: autoDraw = False
+83.3128 	EXP 	es_gradcpt_isi_text: autoDraw = True
+83.8004 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+83.8007 	EXP 	window1: mouseVisible = True
+83.8296 	EXP 	es_gradcpt_isi_text: autoDraw = False
+83.8296 	EXP 	es_gradcpt_isi_text: autoDraw = False
+83.8296 	EXP 	es_text_component_gradcpt: height = 0.05
+83.8296 	EXP 	es_text_component_gradcpt: height = 0.05
+83.8296 	EXP 	es_text_component_gradcpt: height = 0.05
+83.8296 	EXP 	es_text_component_gradcpt: text = 'How difficult was it to disengage from your thoughts?'
+83.8296 	EXP 	es_gradcpt_slider: markerPos = None
+83.8296 	EXP 	es_gradcpt_slider: markerPos = None
+83.8296 	EXP 	low_anchor_gradcpt: height = 0.05
+83.8296 	EXP 	low_anchor_gradcpt: height = 0.05
+83.8296 	EXP 	low_anchor_gradcpt: height = 0.05
+83.8296 	EXP 	low_anchor_gradcpt: text = 'extremely\neasy'
+83.8296 	EXP 	high_anchor_gradcpt: height = 0.05
+83.8296 	EXP 	high_anchor_gradcpt: height = 0.05
+83.8296 	EXP 	high_anchor_gradcpt: height = 0.05
+83.8296 	EXP 	high_anchor_gradcpt: text = 'extremely\ndifficult'
+83.8296 	EXP 	es_text_component_gradcpt: autoDraw = True
+83.8296 	EXP 	es_gradcpt_slider: autoDraw = True
+83.8296 	EXP 	low_anchor_gradcpt: autoDraw = True
+83.8296 	EXP 	high_anchor_gradcpt: autoDraw = True
+84.5038 	DATA 	Mouse: Left button down, pos=(419,308)
+84.5308 	EXP 	es_gradcpt_slider: markerPos = 0.5316666666666666
+84.5474 	EXP 	es_gradcpt_slider: markerPos = 0.5316666666666666
+84.5523 	DATA 	Mouse:  Left button up, pos=(419,308)
+84.5643 	EXP 	es_gradcpt_slider: markerPos = 0.5316666666666666
+84.5817 	INFO 	Keyboard events cleared
+84.5812 	EXP 	enter_advance_gradcpt: autoDraw = True
+84.7370 	DATA 	Keypress: return
+84.7523 	EXP 	window1: mouseVisible = False
+84.7645 	EXP 	es_text_component_gradcpt: autoDraw = False
+84.7645 	EXP 	es_gradcpt_slider: autoDraw = False
+84.7645 	EXP 	low_anchor_gradcpt: autoDraw = False
+84.7645 	EXP 	high_anchor_gradcpt: autoDraw = False
+84.7645 	EXP 	enter_advance_gradcpt: autoDraw = False
+84.7645 	EXP 	es_gradcpt_isi_text: autoDraw = True
+85.2517 	EXP 	New trial (rep=5, index=0): <Trial 5 (0 in rep 5) data={'thisN': 5, 'thisTrialN': 0, 'thisRepN': 5}>
+85.2521 	EXP 	window1: mouseVisible = True
+85.2811 	EXP 	es_gradcpt_isi_text: autoDraw = False
+85.2811 	EXP 	es_gradcpt_isi_text: autoDraw = False
+85.2811 	EXP 	es_text_component_gradcpt: height = 0.05
+85.2811 	EXP 	es_text_component_gradcpt: height = 0.05
+85.2811 	EXP 	es_text_component_gradcpt: height = 0.05
+85.2811 	EXP 	es_text_component_gradcpt: text = 'How confident are you about your ratings for this trial?'
+85.2811 	EXP 	es_gradcpt_slider: markerPos = None
+85.2811 	EXP 	es_gradcpt_slider: markerPos = None
+85.2811 	EXP 	low_anchor_gradcpt: height = 0.05
+85.2811 	EXP 	low_anchor_gradcpt: height = 0.05
+85.2811 	EXP 	low_anchor_gradcpt: height = 0.05
+85.2811 	EXP 	low_anchor_gradcpt: text = 'completely\nunconfident'
+85.2811 	EXP 	high_anchor_gradcpt: height = 0.05
+85.2811 	EXP 	high_anchor_gradcpt: height = 0.05
+85.2811 	EXP 	high_anchor_gradcpt: height = 0.05
+85.2811 	EXP 	high_anchor_gradcpt: text = 'completely\nconfident'
+85.2811 	EXP 	es_text_component_gradcpt: autoDraw = True
+85.2811 	EXP 	es_gradcpt_slider: autoDraw = True
+85.2811 	EXP 	low_anchor_gradcpt: autoDraw = True
+85.2811 	EXP 	high_anchor_gradcpt: autoDraw = True
+85.8536 	DATA 	Mouse: Left button down, pos=(403,305)
+85.8655 	EXP 	es_gradcpt_slider: markerPos = 0.505
+85.8821 	EXP 	es_gradcpt_slider: markerPos = 0.505
+85.8991 	EXP 	es_gradcpt_slider: markerPos = 0.505
+85.9034 	DATA 	Mouse:  Left button up, pos=(403,305)
+85.9156 	EXP 	es_gradcpt_slider: markerPos = 0.505
+85.9327 	INFO 	Keyboard events cleared
+85.9323 	EXP 	enter_advance_gradcpt: autoDraw = True
+86.0035 	EXP 	window1: mouseVisible = False
+86.0045 	DATA 	Keypress: return
+86.0158 	EXP 	es_text_component_gradcpt: autoDraw = False
+86.0158 	EXP 	es_gradcpt_slider: autoDraw = False
+86.0158 	EXP 	low_anchor_gradcpt: autoDraw = False
+86.0158 	EXP 	high_anchor_gradcpt: autoDraw = False
+86.0158 	EXP 	enter_advance_gradcpt: autoDraw = False
+86.0158 	EXP 	es_gradcpt_isi_text: autoDraw = True
+86.5330 	INFO 	Keyboard events cleared
+86.5326 	EXP 	es_gradcpt_isi_text: autoDraw = False
+86.5326 	EXP 	es_gradcpt_isi_text: autoDraw = False
+86.5326 	EXP 	prepare_text: autoDraw = False
+86.5326 	EXP 	block_rest_text: autoDraw = True
+88.3225 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+88.3235 	DATA 	Keypress: space
+88.3356 	INFO 	Keyboard events cleared
+88.3352 	EXP 	block_rest_text: autoDraw = False
+88.3352 	EXP 	black_start_text: text = 'Key for city scenes: f\n When you see a mountain scene, do not make a response.\n\nPress the space bar to begin.'
+88.3352 	EXP 	black_start_text: autoDraw = True
+91.4595 	DATA 	Keypress: space
+91.4710 	EXP 	black_start_text: autoDraw = False
+91.4710 	EXP 	prepare_block_text: autoDraw = True
+96.4644 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+96.4773 	EXP 	prepare_block_text: autoDraw = False
+96.4773 	EXP 	gradcpt_image: autoDraw = True
+97.9833 	INFO 	Keyboard events cleared
+97.9859 	DATA 	Keypress: f
+98.7505 	INFO 	Keyboard events cleared
+98.7528 	DATA 	Keypress: f
+100.5020 	INFO 	Keyboard events cleared
+100.5042 	DATA 	Keypress: f
+101.2028 	INFO 	Keyboard events cleared
+101.2052 	DATA 	Keypress: f
+102.0375 	INFO 	Keyboard events cleared
+102.0398 	DATA 	Keypress: f
+102.8566 	DATA 	Keypress: f
+102.8714 	INFO 	Keyboard events cleared
+103.6226 	INFO 	Keyboard events cleared
+103.6253 	DATA 	Keypress: f
+104.4899 	INFO 	Keyboard events cleared
+104.4921 	DATA 	Keypress: f
+105.3241 	INFO 	Keyboard events cleared
+105.3264 	DATA 	Keypress: f
+106.1421 	INFO 	Keyboard events cleared
+106.1452 	DATA 	Keypress: f
+106.8778 	DATA 	Keypress: f
+106.8921 	INFO 	Keyboard events cleared
+107.7598 	INFO 	Keyboard events cleared
+107.7619 	DATA 	Keypress: f
+108.5775 	INFO 	Keyboard events cleared
+108.5796 	DATA 	Keypress: f
+109.4284 	INFO 	Keyboard events cleared
+109.4304 	DATA 	Keypress: f
+110.2460 	INFO 	Keyboard events cleared
+110.2482 	DATA 	Keypress: f
+111.0464 	INFO 	Keyboard events cleared
+111.0485 	DATA 	Keypress: f
+111.8475 	INFO 	Keyboard events cleared
+111.8496 	DATA 	Keypress: f
+112.5820 	INFO 	Keyboard events cleared
+112.5844 	DATA 	Keypress: f
+113.3826 	INFO 	Keyboard events cleared
+113.3847 	DATA 	Keypress: f
+114.1999 	INFO 	Keyboard events cleared
+114.2020 	DATA 	Keypress: f
+115.0009 	INFO 	Keyboard events cleared
+115.0030 	DATA 	Keypress: f
+115.8369 	DATA 	Keypress: f
+115.8516 	INFO 	Keyboard events cleared
+116.6694 	INFO 	Keyboard events cleared
+116.6715 	DATA 	Keypress: f
+117.5870 	INFO 	Keyboard events cleared
+117.5890 	DATA 	Keypress: f
+118.3043 	INFO 	Keyboard events cleared
+118.3063 	DATA 	Keypress: f
+119.0567 	DATA 	Keypress: f
+119.0717 	INFO 	Keyboard events cleared
+120.0063 	INFO 	Keyboard events cleared
+120.0083 	DATA 	Keypress: f
+120.7406 	INFO 	Keyboard events cleared
+120.7427 	DATA 	Keypress: f
+121.6246 	INFO 	Keyboard events cleared
+121.6266 	DATA 	Keypress: f
+122.3779 	DATA 	Keypress: f
+122.3923 	INFO 	Keyboard events cleared
+124.1774 	INFO 	Keyboard events cleared
+124.1794 	DATA 	Keypress: f
+124.8968 	DATA 	Keypress: f
+124.9114 	INFO 	Keyboard events cleared
+125.6794 	INFO 	Keyboard events cleared
+125.6819 	DATA 	Keypress: f
+126.4632 	INFO 	Keyboard events cleared
+126.4653 	DATA 	Keypress: f
+127.2974 	INFO 	Keyboard events cleared
+127.2995 	DATA 	Keypress: f
+128.9992 	INFO 	Keyboard events cleared
+129.0013 	DATA 	Keypress: f
+129.8167 	INFO 	Keyboard events cleared
+129.8188 	DATA 	Keypress: f
+130.6675 	INFO 	Keyboard events cleared
+130.6695 	DATA 	Keypress: f
+131.4683 	INFO 	Keyboard events cleared
+131.4704 	DATA 	Keypress: f
+132.2379 	DATA 	Keypress: f
+132.2526 	INFO 	Keyboard events cleared
+132.4409 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+132.4413 	EXP 	window1: mouseVisible = True
+132.4647 	EXP 	gradcpt_image: autoDraw = False
+132.4647 	EXP 	es_text_component_gradcpt: height = 0.05
+132.4647 	EXP 	es_text_component_gradcpt: height = 0.05
+132.4647 	EXP 	es_text_component_gradcpt: height = 0.05
+132.4647 	EXP 	es_text_component_gradcpt: text = 'How positive or negative were you feeling?'
+132.4647 	EXP 	es_gradcpt_slider: markerPos = None
+132.4647 	EXP 	es_gradcpt_slider: markerPos = None
+132.4647 	EXP 	low_anchor_gradcpt: height = 0.05
+132.4647 	EXP 	low_anchor_gradcpt: height = 0.05
+132.4647 	EXP 	low_anchor_gradcpt: height = 0.05
+132.4647 	EXP 	low_anchor_gradcpt: text = 'completely\nnegative'
+132.4647 	EXP 	high_anchor_gradcpt: height = 0.05
+132.4647 	EXP 	high_anchor_gradcpt: height = 0.05
+132.4647 	EXP 	high_anchor_gradcpt: height = 0.05
+132.4647 	EXP 	high_anchor_gradcpt: text = 'completely\npositive'
+132.4647 	EXP 	es_text_component_gradcpt: autoDraw = True
+132.4647 	EXP 	es_gradcpt_slider: autoDraw = True
+132.4647 	EXP 	low_anchor_gradcpt: autoDraw = True
+132.4647 	EXP 	high_anchor_gradcpt: autoDraw = True
+134.1716 	DATA 	Mouse: Left button down, pos=(471,326)
+134.1836 	EXP 	es_gradcpt_slider: markerPos = 0.6183333333333333
+134.2003 	EXP 	es_gradcpt_slider: markerPos = 0.6183333333333333
+134.2077 	DATA 	Mouse:  Left button up, pos=(471,326)
+134.2171 	EXP 	es_gradcpt_slider: markerPos = 0.6183333333333333
+134.2338 	EXP 	es_gradcpt_slider: markerPos = 0.6183333333333333
+134.2508 	INFO 	Keyboard events cleared
+134.2505 	EXP 	enter_advance_gradcpt: autoDraw = True
+134.3217 	EXP 	window1: mouseVisible = False
+134.3227 	DATA 	Keypress: return
+134.3338 	EXP 	es_text_component_gradcpt: autoDraw = False
+134.3338 	EXP 	es_gradcpt_slider: autoDraw = False
+134.3338 	EXP 	low_anchor_gradcpt: autoDraw = False
+134.3338 	EXP 	high_anchor_gradcpt: autoDraw = False
+134.3338 	EXP 	enter_advance_gradcpt: autoDraw = False
+134.3338 	EXP 	es_gradcpt_isi_text: autoDraw = True
+134.8216 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+134.8220 	EXP 	window1: mouseVisible = True
+134.8506 	EXP 	es_gradcpt_isi_text: autoDraw = False
+134.8506 	EXP 	es_gradcpt_isi_text: autoDraw = False
+134.8506 	EXP 	es_text_component_gradcpt: height = 0.05
+134.8506 	EXP 	es_text_component_gradcpt: height = 0.05
+134.8506 	EXP 	es_text_component_gradcpt: height = 0.05
+134.8506 	EXP 	es_text_component_gradcpt: text = 'How intentional were your thoughts?'
+134.8506 	EXP 	es_gradcpt_slider: markerPos = None
+134.8506 	EXP 	es_gradcpt_slider: markerPos = None
+134.8506 	EXP 	low_anchor_gradcpt: height = 0.05
+134.8506 	EXP 	low_anchor_gradcpt: height = 0.05
+134.8506 	EXP 	low_anchor_gradcpt: height = 0.05
+134.8506 	EXP 	low_anchor_gradcpt: text = 'completely\nunintentional'
+134.8506 	EXP 	high_anchor_gradcpt: height = 0.05
+134.8506 	EXP 	high_anchor_gradcpt: height = 0.05
+134.8506 	EXP 	high_anchor_gradcpt: height = 0.05
+134.8506 	EXP 	high_anchor_gradcpt: text = 'completely\nintentional'
+134.8506 	EXP 	es_text_component_gradcpt: autoDraw = True
+134.8506 	EXP 	es_gradcpt_slider: autoDraw = True
+134.8506 	EXP 	low_anchor_gradcpt: autoDraw = True
+134.8506 	EXP 	high_anchor_gradcpt: autoDraw = True
+135.2392 	DATA 	Mouse: Left button down, pos=(325,260)
+135.3228 	DATA 	Mouse:  Left button up, pos=(325,260)
+135.4905 	DATA 	Mouse: Left button down, pos=(316,289)
+135.5017 	EXP 	es_gradcpt_slider: markerPos = 0.36
+135.5185 	EXP 	es_gradcpt_slider: markerPos = 0.36
+135.5352 	EXP 	es_gradcpt_slider: markerPos = 0.36
+135.5523 	EXP 	es_gradcpt_slider: markerPos = 0.35833333333333334
+135.5685 	EXP 	es_gradcpt_slider: markerPos = 0.35833333333333334
+135.5736 	DATA 	Mouse:  Left button up, pos=(315,292)
+135.5852 	EXP 	es_gradcpt_slider: markerPos = 0.35833333333333334
+135.6024 	INFO 	Keyboard events cleared
+135.6019 	EXP 	enter_advance_gradcpt: autoDraw = True
+135.6071 	DATA 	Keypress: return
+135.6902 	EXP 	window1: mouseVisible = False
+135.7019 	EXP 	es_text_component_gradcpt: autoDraw = False
+135.7019 	EXP 	es_gradcpt_slider: autoDraw = False
+135.7019 	EXP 	low_anchor_gradcpt: autoDraw = False
+135.7019 	EXP 	high_anchor_gradcpt: autoDraw = False
+135.7019 	EXP 	enter_advance_gradcpt: autoDraw = False
+135.7019 	EXP 	es_gradcpt_isi_text: autoDraw = True
+136.1896 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+136.1900 	EXP 	window1: mouseVisible = True
+136.2189 	EXP 	es_gradcpt_isi_text: autoDraw = False
+136.2189 	EXP 	es_gradcpt_isi_text: autoDraw = False
+136.2189 	EXP 	es_text_component_gradcpt: height = 0.05
+136.2189 	EXP 	es_text_component_gradcpt: height = 0.05
+136.2189 	EXP 	es_text_component_gradcpt: height = 0.05
+136.2189 	EXP 	es_text_component_gradcpt: text = 'Were your thoughts freely moving?'
+136.2189 	EXP 	es_gradcpt_slider: markerPos = None
+136.2189 	EXP 	es_gradcpt_slider: markerPos = None
+136.2189 	EXP 	low_anchor_gradcpt: height = 0.05
+136.2189 	EXP 	low_anchor_gradcpt: height = 0.05
+136.2189 	EXP 	low_anchor_gradcpt: height = 0.05
+136.2189 	EXP 	low_anchor_gradcpt: text = 'unmoving'
+136.2189 	EXP 	high_anchor_gradcpt: height = 0.05
+136.2189 	EXP 	high_anchor_gradcpt: height = 0.05
+136.2189 	EXP 	high_anchor_gradcpt: height = 0.05
+136.2189 	EXP 	high_anchor_gradcpt: text = 'moving freely'
+136.2189 	EXP 	es_text_component_gradcpt: autoDraw = True
+136.2189 	EXP 	es_gradcpt_slider: autoDraw = True
+136.2189 	EXP 	low_anchor_gradcpt: autoDraw = True
+136.2189 	EXP 	high_anchor_gradcpt: autoDraw = True
+136.6244 	DATA 	Mouse: Left button down, pos=(485,300)
+136.6363 	EXP 	es_gradcpt_slider: markerPos = 0.6416666666666666
+136.6529 	EXP 	es_gradcpt_slider: markerPos = 0.6416666666666666
+136.6696 	EXP 	es_gradcpt_slider: markerPos = 0.6416666666666666
+136.6865 	EXP 	es_gradcpt_slider: markerPos = 0.6416666666666666
+136.7033 	EXP 	es_gradcpt_slider: markerPos = 0.6416666666666666
+136.7078 	DATA 	Mouse:  Left button up, pos=(485,300)
+136.7199 	EXP 	es_gradcpt_slider: markerPos = 0.6416666666666666
+136.7244 	DATA 	Keypress: return
+136.7368 	INFO 	Keyboard events cleared
+136.7364 	EXP 	enter_advance_gradcpt: autoDraw = True
+137.1080 	EXP 	window1: mouseVisible = False
+137.1090 	DATA 	Keypress: return
+137.1202 	EXP 	es_text_component_gradcpt: autoDraw = False
+137.1202 	EXP 	es_gradcpt_slider: autoDraw = False
+137.1202 	EXP 	low_anchor_gradcpt: autoDraw = False
+137.1202 	EXP 	high_anchor_gradcpt: autoDraw = False
+137.1202 	EXP 	enter_advance_gradcpt: autoDraw = False
+137.1202 	EXP 	es_gradcpt_isi_text: autoDraw = True
+137.6077 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+137.6080 	EXP 	window1: mouseVisible = True
+137.6369 	EXP 	es_gradcpt_isi_text: autoDraw = False
+137.6369 	EXP 	es_gradcpt_isi_text: autoDraw = False
+137.6369 	EXP 	es_text_component_gradcpt: height = 0.05
+137.6369 	EXP 	es_text_component_gradcpt: height = 0.05
+137.6369 	EXP 	es_text_component_gradcpt: height = 0.05
+137.6369 	EXP 	es_text_component_gradcpt: text = 'Where was your attention during the previous trial?'
+137.6369 	EXP 	es_gradcpt_slider: markerPos = None
+137.6369 	EXP 	es_gradcpt_slider: markerPos = None
+137.6369 	EXP 	low_anchor_gradcpt: height = 0.05
+137.6369 	EXP 	low_anchor_gradcpt: height = 0.05
+137.6369 	EXP 	low_anchor_gradcpt: height = 0.05
+137.6369 	EXP 	low_anchor_gradcpt: text = 'on-task'
+137.6369 	EXP 	high_anchor_gradcpt: height = 0.05
+137.6369 	EXP 	high_anchor_gradcpt: height = 0.05
+137.6369 	EXP 	high_anchor_gradcpt: height = 0.05
+137.6369 	EXP 	high_anchor_gradcpt: text = 'off-task'
+137.6369 	EXP 	es_text_component_gradcpt: autoDraw = True
+137.6369 	EXP 	es_gradcpt_slider: autoDraw = True
+137.6369 	EXP 	low_anchor_gradcpt: autoDraw = True
+137.6369 	EXP 	high_anchor_gradcpt: autoDraw = True
+137.9425 	DATA 	Mouse: Left button down, pos=(381,295)
+137.9544 	EXP 	es_gradcpt_slider: markerPos = 0.4683333333333333
+137.9710 	EXP 	es_gradcpt_slider: markerPos = 0.4683333333333333
+137.9880 	EXP 	es_gradcpt_slider: markerPos = 0.4683333333333333
+137.9923 	DATA 	Mouse:  Left button up, pos=(381,295)
+138.0045 	EXP 	es_gradcpt_slider: markerPos = 0.4683333333333333
+138.0214 	INFO 	Keyboard events cleared
+138.0211 	EXP 	enter_advance_gradcpt: autoDraw = True
+138.0424 	EXP 	window1: mouseVisible = False
+138.0433 	DATA 	Keypress: return
+138.0544 	EXP 	es_text_component_gradcpt: autoDraw = False
+138.0544 	EXP 	es_gradcpt_slider: autoDraw = False
+138.0544 	EXP 	low_anchor_gradcpt: autoDraw = False
+138.0544 	EXP 	high_anchor_gradcpt: autoDraw = False
+138.0544 	EXP 	enter_advance_gradcpt: autoDraw = False
+138.0544 	EXP 	es_gradcpt_isi_text: autoDraw = True
+138.5420 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+138.5423 	EXP 	window1: mouseVisible = True
+138.5713 	EXP 	es_gradcpt_isi_text: autoDraw = False
+138.5713 	EXP 	es_gradcpt_isi_text: autoDraw = False
+138.5713 	EXP 	es_text_component_gradcpt: height = 0.05
+138.5713 	EXP 	es_text_component_gradcpt: height = 0.05
+138.5713 	EXP 	es_text_component_gradcpt: height = 0.05
+138.5713 	EXP 	es_text_component_gradcpt: text = 'How difficult was it to disengage from your thoughts?'
+138.5713 	EXP 	es_gradcpt_slider: markerPos = None
+138.5713 	EXP 	es_gradcpt_slider: markerPos = None
+138.5713 	EXP 	low_anchor_gradcpt: height = 0.05
+138.5713 	EXP 	low_anchor_gradcpt: height = 0.05
+138.5713 	EXP 	low_anchor_gradcpt: height = 0.05
+138.5713 	EXP 	low_anchor_gradcpt: text = 'extremely\neasy'
+138.5713 	EXP 	high_anchor_gradcpt: height = 0.05
+138.5713 	EXP 	high_anchor_gradcpt: height = 0.05
+138.5713 	EXP 	high_anchor_gradcpt: height = 0.05
+138.5713 	EXP 	high_anchor_gradcpt: text = 'extremely\ndifficult'
+138.5713 	EXP 	es_text_component_gradcpt: autoDraw = True
+138.5713 	EXP 	es_gradcpt_slider: autoDraw = True
+138.5713 	EXP 	low_anchor_gradcpt: autoDraw = True
+138.5713 	EXP 	high_anchor_gradcpt: autoDraw = True
+139.0937 	DATA 	Mouse: Left button down, pos=(498,302)
+139.1056 	EXP 	es_gradcpt_slider: markerPos = 0.6633333333333333
+139.1222 	EXP 	es_gradcpt_slider: markerPos = 0.6633333333333333
+139.1389 	EXP 	es_gradcpt_slider: markerPos = 0.6633333333333333
+139.1556 	EXP 	es_gradcpt_slider: markerPos = 0.6633333333333333
+139.1600 	DATA 	Mouse:  Left button up, pos=(498,302)
+139.1723 	EXP 	es_gradcpt_slider: markerPos = 0.6633333333333333
+139.1894 	INFO 	Keyboard events cleared
+139.1890 	EXP 	enter_advance_gradcpt: autoDraw = True
+139.2102 	EXP 	window1: mouseVisible = False
+139.2112 	DATA 	Keypress: return
+139.2223 	EXP 	es_text_component_gradcpt: autoDraw = False
+139.2223 	EXP 	es_gradcpt_slider: autoDraw = False
+139.2223 	EXP 	low_anchor_gradcpt: autoDraw = False
+139.2223 	EXP 	high_anchor_gradcpt: autoDraw = False
+139.2223 	EXP 	enter_advance_gradcpt: autoDraw = False
+139.2223 	EXP 	es_gradcpt_isi_text: autoDraw = True
+139.7099 	EXP 	New trial (rep=5, index=0): <Trial 5 (0 in rep 5) data={'thisN': 5, 'thisTrialN': 0, 'thisRepN': 5}>
+139.7102 	EXP 	window1: mouseVisible = True
+139.7393 	EXP 	es_gradcpt_isi_text: autoDraw = False
+139.7393 	EXP 	es_gradcpt_isi_text: autoDraw = False
+139.7393 	EXP 	es_text_component_gradcpt: height = 0.05
+139.7393 	EXP 	es_text_component_gradcpt: height = 0.05
+139.7393 	EXP 	es_text_component_gradcpt: height = 0.05
+139.7393 	EXP 	es_text_component_gradcpt: text = 'How confident are you about your ratings for this trial?'
+139.7393 	EXP 	es_gradcpt_slider: markerPos = None
+139.7393 	EXP 	es_gradcpt_slider: markerPos = None
+139.7393 	EXP 	low_anchor_gradcpt: height = 0.05
+139.7393 	EXP 	low_anchor_gradcpt: height = 0.05
+139.7393 	EXP 	low_anchor_gradcpt: height = 0.05
+139.7393 	EXP 	low_anchor_gradcpt: text = 'completely\nunconfident'
+139.7393 	EXP 	high_anchor_gradcpt: height = 0.05
+139.7393 	EXP 	high_anchor_gradcpt: height = 0.05
+139.7393 	EXP 	high_anchor_gradcpt: height = 0.05
+139.7393 	EXP 	high_anchor_gradcpt: text = 'completely\nconfident'
+139.7393 	EXP 	es_text_component_gradcpt: autoDraw = True
+139.7393 	EXP 	es_gradcpt_slider: autoDraw = True
+139.7393 	EXP 	low_anchor_gradcpt: autoDraw = True
+139.7393 	EXP 	high_anchor_gradcpt: autoDraw = True
+140.3449 	DATA 	Mouse: Left button down, pos=(472,303)
+140.3569 	EXP 	es_gradcpt_slider: markerPos = 0.62
+140.3736 	EXP 	es_gradcpt_slider: markerPos = 0.62
+140.3903 	EXP 	es_gradcpt_slider: markerPos = 0.62
+140.3944 	DATA 	Mouse:  Left button up, pos=(472,303)
+140.4070 	EXP 	es_gradcpt_slider: markerPos = 0.62
+140.4241 	INFO 	Keyboard events cleared
+140.4237 	EXP 	enter_advance_gradcpt: autoDraw = True
+140.4618 	EXP 	window1: mouseVisible = False
+140.4629 	DATA 	Keypress: return
+140.4737 	EXP 	es_text_component_gradcpt: autoDraw = False
+140.4737 	EXP 	es_gradcpt_slider: autoDraw = False
+140.4737 	EXP 	low_anchor_gradcpt: autoDraw = False
+140.4737 	EXP 	high_anchor_gradcpt: autoDraw = False
+140.4737 	EXP 	enter_advance_gradcpt: autoDraw = False
+140.4737 	EXP 	es_gradcpt_isi_text: autoDraw = True
+140.9744 	EXP 	es_gradcpt_isi_text: autoDraw = False
+140.9744 	EXP 	es_gradcpt_isi_text: autoDraw = False
+140.9744 	EXP 	prepare_text: autoDraw = True
+145.9669 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+145.9802 	EXP 	prepare_text: autoDraw = False
+145.9802 	EXP 	gradcpt_image: autoDraw = True
+146.4678 	INFO 	Keyboard events cleared
+146.4701 	DATA 	Keypress: f
+147.2853 	INFO 	Keyboard events cleared
+147.2877 	DATA 	Keypress: f
+148.1864 	INFO 	Keyboard events cleared
+148.1887 	DATA 	Keypress: f
+149.0873 	INFO 	Keyboard events cleared
+149.0895 	DATA 	Keypress: f
+149.9048 	INFO 	Keyboard events cleared
+149.9071 	DATA 	Keypress: f
+150.7230 	INFO 	Keyboard events cleared
+150.7254 	DATA 	Keypress: f
+151.4898 	INFO 	Keyboard events cleared
+151.4922 	DATA 	Keypress: f
+152.3406 	INFO 	Keyboard events cleared
+152.3428 	DATA 	Keypress: f
+153.2251 	INFO 	Keyboard events cleared
+153.2274 	DATA 	Keypress: f
+153.9776 	DATA 	Keypress: f
+153.9923 	INFO 	Keyboard events cleared
+154.7431 	INFO 	Keyboard events cleared
+154.7452 	DATA 	Keypress: f
+155.5442 	INFO 	Keyboard events cleared
+155.5467 	DATA 	Keypress: f
+156.3783 	INFO 	Keyboard events cleared
+156.3804 	DATA 	Keypress: f
+157.1625 	INFO 	Keyboard events cleared
+157.1645 	DATA 	Keypress: f
+158.8310 	INFO 	Keyboard events cleared
+158.8331 	DATA 	Keypress: f
+159.0165 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+159.0168 	EXP 	window1: mouseVisible = True
+159.0431 	EXP 	gradcpt_image: autoDraw = False
+159.0431 	EXP 	es_text_component_gradcpt: height = 0.05
+159.0431 	EXP 	es_text_component_gradcpt: height = 0.05
+159.0431 	EXP 	es_text_component_gradcpt: height = 0.05
+159.0431 	EXP 	es_text_component_gradcpt: text = 'How difficult was it to disengage from your thoughts?'
+159.0431 	EXP 	es_gradcpt_slider: markerPos = None
+159.0431 	EXP 	es_gradcpt_slider: markerPos = None
+159.0431 	EXP 	low_anchor_gradcpt: height = 0.05
+159.0431 	EXP 	low_anchor_gradcpt: height = 0.05
+159.0431 	EXP 	low_anchor_gradcpt: height = 0.05
+159.0431 	EXP 	low_anchor_gradcpt: text = 'extremely\neasy'
+159.0431 	EXP 	high_anchor_gradcpt: height = 0.05
+159.0431 	EXP 	high_anchor_gradcpt: height = 0.05
+159.0431 	EXP 	high_anchor_gradcpt: height = 0.05
+159.0431 	EXP 	high_anchor_gradcpt: text = 'extremely\ndifficult'
+159.0431 	EXP 	es_text_component_gradcpt: autoDraw = True
+159.0431 	EXP 	es_gradcpt_slider: autoDraw = True
+159.0431 	EXP 	low_anchor_gradcpt: autoDraw = True
+159.0431 	EXP 	high_anchor_gradcpt: autoDraw = True
+160.7832 	DATA 	Mouse: Left button down, pos=(503,300)
+160.7955 	EXP 	es_gradcpt_slider: markerPos = 0.6716666666666666
+160.8121 	EXP 	es_gradcpt_slider: markerPos = 0.6716666666666666
+160.8288 	EXP 	es_gradcpt_slider: markerPos = 0.6716666666666666
+160.8331 	DATA 	Mouse:  Left button up, pos=(503,300)
+160.8454 	EXP 	es_gradcpt_slider: markerPos = 0.6716666666666666
+160.8626 	INFO 	Keyboard events cleared
+160.8622 	EXP 	enter_advance_gradcpt: autoDraw = True
+161.0836 	EXP 	window1: mouseVisible = False
+161.0846 	DATA 	Keypress: return
+161.0958 	EXP 	es_text_component_gradcpt: autoDraw = False
+161.0958 	EXP 	es_gradcpt_slider: autoDraw = False
+161.0958 	EXP 	low_anchor_gradcpt: autoDraw = False
+161.0958 	EXP 	high_anchor_gradcpt: autoDraw = False
+161.0958 	EXP 	enter_advance_gradcpt: autoDraw = False
+161.0958 	EXP 	es_gradcpt_isi_text: autoDraw = True
+161.5833 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+161.5836 	EXP 	window1: mouseVisible = True
+161.6124 	EXP 	es_gradcpt_isi_text: autoDraw = False
+161.6124 	EXP 	es_gradcpt_isi_text: autoDraw = False
+161.6124 	EXP 	es_text_component_gradcpt: height = 0.05
+161.6124 	EXP 	es_text_component_gradcpt: height = 0.05
+161.6124 	EXP 	es_text_component_gradcpt: height = 0.05
+161.6124 	EXP 	es_text_component_gradcpt: text = 'Where was your attention during the previous trial?'
+161.6124 	EXP 	es_gradcpt_slider: markerPos = None
+161.6124 	EXP 	es_gradcpt_slider: markerPos = None
+161.6124 	EXP 	low_anchor_gradcpt: height = 0.05
+161.6124 	EXP 	low_anchor_gradcpt: height = 0.05
+161.6124 	EXP 	low_anchor_gradcpt: height = 0.05
+161.6124 	EXP 	low_anchor_gradcpt: text = 'on-task'
+161.6124 	EXP 	high_anchor_gradcpt: height = 0.05
+161.6124 	EXP 	high_anchor_gradcpt: height = 0.05
+161.6124 	EXP 	high_anchor_gradcpt: height = 0.05
+161.6124 	EXP 	high_anchor_gradcpt: text = 'off-task'
+161.6124 	EXP 	es_text_component_gradcpt: autoDraw = True
+161.6124 	EXP 	es_gradcpt_slider: autoDraw = True
+161.6124 	EXP 	low_anchor_gradcpt: autoDraw = True
+161.6124 	EXP 	high_anchor_gradcpt: autoDraw = True
+161.9531 	DATA 	Mouse: Left button down, pos=(290,293)
+161.9799 	EXP 	es_gradcpt_slider: markerPos = 0.31666666666666665
+161.9967 	EXP 	es_gradcpt_slider: markerPos = 0.31666666666666665
+162.0134 	EXP 	es_gradcpt_slider: markerPos = 0.31666666666666665
+162.0177 	DATA 	Mouse:  Left button up, pos=(290,293)
+162.0300 	EXP 	es_gradcpt_slider: markerPos = 0.31666666666666665
+162.0471 	INFO 	Keyboard events cleared
+162.0467 	EXP 	enter_advance_gradcpt: autoDraw = True
+162.1013 	EXP 	window1: mouseVisible = False
+162.1024 	DATA 	Keypress: return
+162.1136 	EXP 	es_text_component_gradcpt: autoDraw = False
+162.1136 	EXP 	es_gradcpt_slider: autoDraw = False
+162.1136 	EXP 	low_anchor_gradcpt: autoDraw = False
+162.1136 	EXP 	high_anchor_gradcpt: autoDraw = False
+162.1136 	EXP 	enter_advance_gradcpt: autoDraw = False
+162.1136 	EXP 	es_gradcpt_isi_text: autoDraw = True
+162.6010 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+162.6013 	EXP 	window1: mouseVisible = True
+162.6302 	EXP 	es_gradcpt_isi_text: autoDraw = False
+162.6302 	EXP 	es_gradcpt_isi_text: autoDraw = False
+162.6302 	EXP 	es_text_component_gradcpt: height = 0.05
+162.6302 	EXP 	es_text_component_gradcpt: height = 0.05
+162.6302 	EXP 	es_text_component_gradcpt: height = 0.05
+162.6302 	EXP 	es_text_component_gradcpt: text = 'How intentional were your thoughts?'
+162.6302 	EXP 	es_gradcpt_slider: markerPos = None
+162.6302 	EXP 	es_gradcpt_slider: markerPos = None
+162.6302 	EXP 	low_anchor_gradcpt: height = 0.05
+162.6302 	EXP 	low_anchor_gradcpt: height = 0.05
+162.6302 	EXP 	low_anchor_gradcpt: height = 0.05
+162.6302 	EXP 	low_anchor_gradcpt: text = 'completely\nunintentional'
+162.6302 	EXP 	high_anchor_gradcpt: height = 0.05
+162.6302 	EXP 	high_anchor_gradcpt: height = 0.05
+162.6302 	EXP 	high_anchor_gradcpt: height = 0.05
+162.6302 	EXP 	high_anchor_gradcpt: text = 'completely\nintentional'
+162.6302 	EXP 	es_text_component_gradcpt: autoDraw = True
+162.6302 	EXP 	es_gradcpt_slider: autoDraw = True
+162.6302 	EXP 	low_anchor_gradcpt: autoDraw = True
+162.6302 	EXP 	high_anchor_gradcpt: autoDraw = True
+163.0189 	DATA 	Mouse: Left button down, pos=(473,326)
+163.0311 	EXP 	es_gradcpt_slider: markerPos = 0.6216666666666667
+163.0477 	EXP 	es_gradcpt_slider: markerPos = 0.6216666666666667
+163.0644 	EXP 	es_gradcpt_slider: markerPos = 0.6216666666666667
+163.0811 	EXP 	es_gradcpt_slider: markerPos = 0.6216666666666667
+163.0853 	DATA 	Mouse:  Left button up, pos=(473,326)
+163.0978 	EXP 	es_gradcpt_slider: markerPos = 0.6216666666666667
+163.1149 	INFO 	Keyboard events cleared
+163.1145 	EXP 	enter_advance_gradcpt: autoDraw = True
+163.1195 	EXP 	window1: mouseVisible = False
+163.1205 	DATA 	Keypress: return
+163.1313 	EXP 	es_text_component_gradcpt: autoDraw = False
+163.1313 	EXP 	es_gradcpt_slider: autoDraw = False
+163.1313 	EXP 	low_anchor_gradcpt: autoDraw = False
+163.1313 	EXP 	high_anchor_gradcpt: autoDraw = False
+163.1313 	EXP 	enter_advance_gradcpt: autoDraw = False
+163.1313 	EXP 	es_gradcpt_isi_text: autoDraw = True
+163.6187 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+163.6191 	EXP 	window1: mouseVisible = True
+163.6480 	EXP 	es_gradcpt_isi_text: autoDraw = False
+163.6480 	EXP 	es_gradcpt_isi_text: autoDraw = False
+163.6480 	EXP 	es_text_component_gradcpt: height = 0.05
+163.6480 	EXP 	es_text_component_gradcpt: height = 0.05
+163.6480 	EXP 	es_text_component_gradcpt: height = 0.05
+163.6480 	EXP 	es_text_component_gradcpt: text = 'Were your thoughts freely moving?'
+163.6480 	EXP 	es_gradcpt_slider: markerPos = None
+163.6480 	EXP 	es_gradcpt_slider: markerPos = None
+163.6480 	EXP 	low_anchor_gradcpt: height = 0.05
+163.6480 	EXP 	low_anchor_gradcpt: height = 0.05
+163.6480 	EXP 	low_anchor_gradcpt: height = 0.05
+163.6480 	EXP 	low_anchor_gradcpt: text = 'unmoving'
+163.6480 	EXP 	high_anchor_gradcpt: height = 0.05
+163.6480 	EXP 	high_anchor_gradcpt: height = 0.05
+163.6480 	EXP 	high_anchor_gradcpt: height = 0.05
+163.6480 	EXP 	high_anchor_gradcpt: text = 'moving freely'
+163.6480 	EXP 	es_text_component_gradcpt: autoDraw = True
+163.6480 	EXP 	es_gradcpt_slider: autoDraw = True
+163.6480 	EXP 	low_anchor_gradcpt: autoDraw = True
+163.6480 	EXP 	high_anchor_gradcpt: autoDraw = True
+164.0390 	DATA 	Mouse: Left button down, pos=(351,287)
+164.0656 	EXP 	es_gradcpt_slider: markerPos = 0.41833333333333333
+164.0822 	EXP 	es_gradcpt_slider: markerPos = 0.41833333333333333
+164.0989 	EXP 	es_gradcpt_slider: markerPos = 0.41833333333333333
+164.1032 	DATA 	Mouse:  Left button up, pos=(351,287)
+164.1156 	EXP 	es_gradcpt_slider: markerPos = 0.41833333333333333
+164.1327 	INFO 	Keyboard events cleared
+164.1323 	EXP 	enter_advance_gradcpt: autoDraw = True
+164.1704 	EXP 	window1: mouseVisible = False
+164.1714 	DATA 	Keypress: return
+164.1823 	EXP 	es_text_component_gradcpt: autoDraw = False
+164.1823 	EXP 	es_gradcpt_slider: autoDraw = False
+164.1823 	EXP 	low_anchor_gradcpt: autoDraw = False
+164.1823 	EXP 	high_anchor_gradcpt: autoDraw = False
+164.1823 	EXP 	enter_advance_gradcpt: autoDraw = False
+164.1823 	EXP 	es_gradcpt_isi_text: autoDraw = True
+164.6699 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+164.6702 	EXP 	window1: mouseVisible = True
+164.6992 	EXP 	es_gradcpt_isi_text: autoDraw = False
+164.6992 	EXP 	es_gradcpt_isi_text: autoDraw = False
+164.6992 	EXP 	es_text_component_gradcpt: height = 0.05
+164.6992 	EXP 	es_text_component_gradcpt: height = 0.05
+164.6992 	EXP 	es_text_component_gradcpt: height = 0.05
+164.6992 	EXP 	es_text_component_gradcpt: text = 'How positive or negative were you feeling?'
+164.6992 	EXP 	es_gradcpt_slider: markerPos = None
+164.6992 	EXP 	es_gradcpt_slider: markerPos = None
+164.6992 	EXP 	low_anchor_gradcpt: height = 0.05
+164.6992 	EXP 	low_anchor_gradcpt: height = 0.05
+164.6992 	EXP 	low_anchor_gradcpt: height = 0.05
+164.6992 	EXP 	low_anchor_gradcpt: text = 'completely\nnegative'
+164.6992 	EXP 	high_anchor_gradcpt: height = 0.05
+164.6992 	EXP 	high_anchor_gradcpt: height = 0.05
+164.6992 	EXP 	high_anchor_gradcpt: height = 0.05
+164.6992 	EXP 	high_anchor_gradcpt: text = 'completely\npositive'
+164.6992 	EXP 	es_text_component_gradcpt: autoDraw = True
+164.6992 	EXP 	es_gradcpt_slider: autoDraw = True
+164.6992 	EXP 	low_anchor_gradcpt: autoDraw = True
+164.6992 	EXP 	high_anchor_gradcpt: autoDraw = True
+165.1388 	DATA 	Mouse: Left button down, pos=(494,285)
+165.1500 	EXP 	es_gradcpt_slider: markerPos = 0.6566666666666667
+165.1670 	EXP 	es_gradcpt_slider: markerPos = 0.6566666666666667
+165.1834 	EXP 	es_gradcpt_slider: markerPos = 0.6566666666666667
+165.2001 	EXP 	es_gradcpt_slider: markerPos = 0.6566666666666667
+165.2169 	EXP 	es_gradcpt_slider: markerPos = 0.6566666666666667
+165.2243 	DATA 	Mouse:  Left button up, pos=(494,286)
+165.2335 	EXP 	es_gradcpt_slider: markerPos = 0.6566666666666667
+165.2502 	EXP 	es_gradcpt_slider: markerPos = 0.6566666666666667
+165.2671 	INFO 	Keyboard events cleared
+165.2667 	EXP 	enter_advance_gradcpt: autoDraw = True
+165.3218 	EXP 	window1: mouseVisible = False
+165.3228 	DATA 	Keypress: return
+165.3335 	EXP 	es_text_component_gradcpt: autoDraw = False
+165.3335 	EXP 	es_gradcpt_slider: autoDraw = False
+165.3335 	EXP 	low_anchor_gradcpt: autoDraw = False
+165.3335 	EXP 	high_anchor_gradcpt: autoDraw = False
+165.3335 	EXP 	enter_advance_gradcpt: autoDraw = False
+165.3335 	EXP 	es_gradcpt_isi_text: autoDraw = True
+165.8211 	EXP 	New trial (rep=5, index=0): <Trial 5 (0 in rep 5) data={'thisN': 5, 'thisTrialN': 0, 'thisRepN': 5}>
+165.8215 	EXP 	window1: mouseVisible = True
+165.8502 	EXP 	es_gradcpt_isi_text: autoDraw = False
+165.8502 	EXP 	es_gradcpt_isi_text: autoDraw = False
+165.8502 	EXP 	es_text_component_gradcpt: height = 0.05
+165.8502 	EXP 	es_text_component_gradcpt: height = 0.05
+165.8502 	EXP 	es_text_component_gradcpt: height = 0.05
+165.8502 	EXP 	es_text_component_gradcpt: text = 'How confident are you about your ratings for this trial?'
+165.8502 	EXP 	es_gradcpt_slider: markerPos = None
+165.8502 	EXP 	es_gradcpt_slider: markerPos = None
+165.8502 	EXP 	low_anchor_gradcpt: height = 0.05
+165.8502 	EXP 	low_anchor_gradcpt: height = 0.05
+165.8502 	EXP 	low_anchor_gradcpt: height = 0.05
+165.8502 	EXP 	low_anchor_gradcpt: text = 'completely\nunconfident'
+165.8502 	EXP 	high_anchor_gradcpt: height = 0.05
+165.8502 	EXP 	high_anchor_gradcpt: height = 0.05
+165.8502 	EXP 	high_anchor_gradcpt: height = 0.05
+165.8502 	EXP 	high_anchor_gradcpt: text = 'completely\nconfident'
+165.8502 	EXP 	es_text_component_gradcpt: autoDraw = True
+165.8502 	EXP 	es_gradcpt_slider: autoDraw = True
+165.8502 	EXP 	low_anchor_gradcpt: autoDraw = True
+165.8502 	EXP 	high_anchor_gradcpt: autoDraw = True
+166.2228 	DATA 	Mouse: Left button down, pos=(356,286)
+166.2347 	EXP 	es_gradcpt_slider: markerPos = 0.42666666666666664
+166.2513 	EXP 	es_gradcpt_slider: markerPos = 0.42666666666666664
+166.2678 	EXP 	es_gradcpt_slider: markerPos = 0.42666666666666664
+166.2849 	EXP 	es_gradcpt_slider: markerPos = 0.42666666666666664
+166.2891 	DATA 	Mouse:  Left button up, pos=(356,286)
+166.3012 	EXP 	es_gradcpt_slider: markerPos = 0.42666666666666664
+166.3183 	INFO 	Keyboard events cleared
+166.3179 	EXP 	enter_advance_gradcpt: autoDraw = True
+166.3894 	EXP 	window1: mouseVisible = False
+166.3905 	DATA 	Keypress: return
+166.4015 	EXP 	es_text_component_gradcpt: autoDraw = False
+166.4015 	EXP 	es_gradcpt_slider: autoDraw = False
+166.4015 	EXP 	low_anchor_gradcpt: autoDraw = False
+166.4015 	EXP 	high_anchor_gradcpt: autoDraw = False
+166.4015 	EXP 	enter_advance_gradcpt: autoDraw = False
+166.4015 	EXP 	es_gradcpt_isi_text: autoDraw = True
+166.9022 	INFO 	Keyboard events cleared
+166.9019 	EXP 	es_gradcpt_isi_text: autoDraw = False
+166.9019 	EXP 	es_gradcpt_isi_text: autoDraw = False
+166.9019 	EXP 	prepare_text: autoDraw = False
+166.9019 	EXP 	block_rest_text: autoDraw = True
+168.4480 	DATA 	Keypress: space
+168.4540 	INFO 	Keyboard events cleared
+168.4536 	EXP 	block_rest_text: autoDraw = False
+168.4536 	EXP 	debrief_text: height = 0.03
+168.4536 	EXP 	debrief_text: height = 0.03
+168.4536 	EXP 	debrief_text: height = 0.03
+168.4536 	EXP 	debrief_text: text = 'Some debriefing text.'
+168.4536 	EXP 	debrief_text: autoDraw = True
+169.4105 	DATA 	Keypress: space
+169.4213 	EXP 	debrief_text: autoDraw = False
+169.4213 	EXP 	thanks_text: autoDraw = True
+174.4265 	EXP 	thanks_text: autoDraw = False
+174.4296 	EXP 	gradcptpy: status = STOPPED
+174.4614 	INFO 	saved data to 'C:\\Users\\dbrau\\Dropbox\\post_doc\\professional\\projects\\independent\\gradcptpy\\data/064424_gradcptpy_2024-09-13_16h55.33.818.csv'
+174.4632 	INFO 	saved data to C:\Users\dbrau\Dropbox\post_doc\professional\projects\independent\gradcptpy\data/064424_gradcptpy_2024-09-13_16h55.33.818.psydat
+174.5196 	EXP 	window1: mouseVisible = True
+174.9330 	DEBUG 	Saving data for gradcptpy ExperimentHandler
