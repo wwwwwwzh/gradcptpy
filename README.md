@@ -7,6 +7,7 @@ Esterman and
 colleagues](https://academic.oup.com/cercor/article/23/11/2712/303412)).
 
 ![gradcpt_demo](demo/demo.gif)
+
 *A (very slow) demo of the GradCPT task*
 
 
