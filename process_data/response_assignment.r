@@ -47,7 +47,7 @@ get_columns <- function(d) {
 
 assign_response <- function(d, unambig_low = .4, unambig_high = .55) {
     # --- PARAMETERS --- #
-    # d:            GradCPT data from one subject and one run/block
+    # d:            data frame of data from the experiment
     # unambig_low:  lower limit for unambiguous response assignment
     # unambig_high: upper limit for unambiguous response assignment
     #
@@ -72,8 +72,8 @@ assign_response <- function(d, unambig_low = .4, unambig_high = .55) {
     
     # Step 1 - Assign unambiguous responses
     trialcode1 <- ifelse(rt == 0, 'timeout', 
-                        ifelse(coherence < unambig_low, lag(trial), 
-                        ifelse(coherence > unambig_high, trial, 'ambiguous')))
+                         ifelse(coherence < unambig_low, lag(trial), 
+                                ifelse(coherence > unambig_high, trial, 'ambiguous')))
     
     # Step 2 - Assign ambiguous responses
     trialcode2 <- c()
@@ -84,36 +84,36 @@ assign_response <- function(d, unambig_low = .4, unambig_high = .55) {
         if (trialcode1[row] != 'ambiguous') {
             trialcode2 <- c(trialcode2, trialcode1[row])
             
-        # If current response assignment is ambiguous
+            # If current response assignment is ambiguous
         } else if (trialcode1[row] == 'ambiguous') {
-           trial_id <- trial[row]
-           # Discern if the current and previous trials are already assigned a response
-           
-           # To discern previous trial:
-           # If it's not the first iteration, look back to the 
-           # last element in the currently created step 2 vector 
-           if (length(trialcode2 > 2)) {
-               is_previous_response <- as.character(trial_id - 1) %in% trialcode2[row-1]
-           # Else, just look in the step 1 results
-           } else {
-               is_previous_response <- as.character(trial_id - 1) %in% trialcode1
-           }
-           # Discern whether current trial is assigned a response
-           is_current_response <- as.character(trial_id) %in% trialcode1
-           
-           # If exactly one trial is assigned a response
-           if (xor(is_previous_response, is_current_response)) {
-               # Assign the current response to the trial that isn't already assigned
-               trialcode2 <- c(trialcode2, ifelse(is_previous_response, trial_id, trial_id-1))
-           # If neither current or previous trial is assigned a response
-           } else if (!is_previous_response & !is_current_response) {
-               # Assign it to the current trial only if current trial is not catch trial
-               trialcode2 <- c(trialcode2, ifelse(condition[row]=='nondom', trial_id - 1, trial_id))
-           # If both trials are already assigned, assign it as duplicate to 
-           # current trial
-           } else{
-               trialcode2 <- c(trialcode2, trial_id)
-           }
+            trial_id <- trial[row]
+            # Discern if the current and previous trials are already assigned a response
+            
+            # To discern previous trial:
+            # If it's not the first iteration, look back to the 
+            # last element in the currently created step 2 vector 
+            if (length(trialcode2 > 2)) {
+                is_previous_response <- as.character(trial_id - 1) %in% trialcode2[row-1]
+                # Else, just look in the step 1 results
+            } else {
+                is_previous_response <- as.character(trial_id - 1) %in% trialcode1
+            }
+            # Discern whether current trial is assigned a response
+            is_current_response <- as.character(trial_id) %in% trialcode1
+            
+            # If exactly one trial is assigned a response
+            if (xor(is_previous_response, is_current_response)) {
+                # Assign the current response to the trial that isn't already assigned
+                trialcode2 <- c(trialcode2, ifelse(is_previous_response, trial_id, trial_id-1))
+                # If neither current or previous trial is assigned a response
+            } else if (!is_previous_response & !is_current_response) {
+                # Assign it to the current trial only if current trial is not catch trial
+                trialcode2 <- c(trialcode2, ifelse(condition[row]=='nondom', trial_id - 1, trial_id))
+                # If both trials are already assigned, assign it as duplicate to 
+                # current trial
+            } else{
+                trialcode2 <- c(trialcode2, trial_id)
+            }
         } 
         
     } # End Step 2
@@ -143,11 +143,11 @@ assign_response <- function(d, unambig_low = .4, unambig_high = .55) {
         filter(!dups) %>% 
         select(-all_of(within_trial), -dups) %>% 
         # Left join ensures missing trials are coded as timeouts
+        # But we lose runtime
         left_join(coded) 
     
     
     # Finally, code accuracy
-    
     d <- d %>% 
         mutate(accuracy = case_when(
             condition == 'nondom' & is.na(rt) ~ 1,

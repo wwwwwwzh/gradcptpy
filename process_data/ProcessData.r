@@ -1,9 +1,34 @@
 path <- commandArgs(trailingOnly = TRUE)
-source('concatentate_gradcpt.r')
-source('response_assignment.r')
+
+if (!grepl('gradcptpy', getwd())) {
+    stop('Need to run this script from inside the GradCPTpy repo.')
+}
+
+infer_path <- function() {
+    # Change wd to root directory
+
+    wd <- tolower(getwd())
+    
+    if (basename(wd) != 'gradcptpy') {
+        path_components <- strsplit(wd, '/')[[1]]
+        index <- which(path_components == 'gradcptpy')
+        steps_back <- length(path_components) - index
+        new_wd <- rep('../', steps_back)
+        setwd(new_wd)
+    }
+
+}
+
+og_wd <- getwd()
+infer_path()
+source('process_data/concatentate_gradcpt.r')
+source('process_data/response_assignment.r')
 
 if (length(path) != 1) {
-    stop('Must supply either path to data directory or path to specific data file.')
+    message('No path supplied. Changing working directory to root of repo.')
+    path <- 'neat_data'
+} else {
+    setwd(og_wd)
 }
 
 
@@ -39,13 +64,14 @@ if (is_path(path)) {
     d <- assign_response(read.csv(path))
 }
 
+infer_path()
 
 # Save output
-if (!dir.exists('../formatted_data')) {
-    dir.create('../formatted_data')
+if (!dir.exists('formatted_data')) {
+    dir.create('formatted_data')
 }
 
 datetime <- format(Sys.time(), '%Y%m%d%H%M%S')
-write.csv(d, paste0('../formatted_data/GradCPT_', datetime, '.csv'), row.names = FALSE)
+write.csv(d, paste0('formatted_data/GradCPT_', datetime, '.csv'), row.names = FALSE)
 
 
