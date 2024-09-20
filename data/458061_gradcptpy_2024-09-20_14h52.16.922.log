@@ -1,0 +1,715 @@
+10.2610 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+10.2628 	INFO 	Loaded monitor calibration from ['2024_09_16 16:06']
+10.6645 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1810>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B17B0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1600>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001B04A525330>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.6646 	EXP 	window1: backgroundImage = ''
+10.6647 	EXP 	window1: backgroundFit = 'none'
+10.6655 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1930>
+10.6660 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1930>
+10.6717 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1930>
+10.6724 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1930>
+10.6804 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6820 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6838 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6862 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6882 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6895 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6911 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6929 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6939 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6950 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6966 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6981 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6998 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7016 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7031 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7047 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7062 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7074 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7087 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7105 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7117 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7121 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.7217 	DEBUG 	Upload of Texture Font fontname complete
+10.7235 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1930>
+10.7236 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1930>
+10.7244 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1930>
+10.7251 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0496B1930>
+10.7315 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7338 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7359 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7363 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.7421 	DEBUG 	Upload of Texture Font fontname complete
+10.7445 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.7445 	EXP 	window1: recordFrameIntervals = False
+10.9561 	EXP 	window1: recordFrameIntervals = True
+11.5026 	EXP 	Screen (0) actual frame rate measured at 61.35Hz
+11.5026 	EXP 	window1: recordFrameIntervals = False
+11.5027 	EXP 	window1: mouseVisible = False
+11.5031 	EXP 	window1: mouseVisible = False
+11.5032 	EXP 	window1: mouseVisible = False
+11.5041 	EXP 	window1: mouseVisible = False
+11.5047 	EXP 	window1: mouseVisible = False
+11.5112 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5125 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5142 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5162 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5184 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5206 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5220 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5239 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5260 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5280 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5285 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.5293 	DEBUG 	Upload of Texture Font fontname complete
+11.5311 	EXP 	window1: mouseVisible = False
+11.5312 	EXP 	window1: mouseVisible = False
+11.5320 	EXP 	window1: mouseVisible = False
+11.5328 	EXP 	window1: mouseVisible = False
+11.5641 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+16.4714 	INFO 	keyboard.Keyboard is using iohub backend.
+16.4715 	INFO 	keyboard.Keyboard is using iohub backend.
+16.4715 	INFO 	keyboard.Keyboard is using iohub backend.
+16.4716 	INFO 	keyboard.Keyboard is using iohub backend.
+16.4716 	EXP 	gradcptpy: status = STARTED
+16.5897 	EXP 	window1: mouseVisible = False
+16.7091 	EXP 	Created frame_rate_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='frame_rate_prompt', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Trying to estimate frame rate....', units='height', win=Window(...), wrapWidth=1)
+16.7092 	EXP 	window1: mouseVisible = False
+16.7340 	EXP 	Created welcome_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.7341 	EXP 	window1: mouseVisible = False
+16.7363 	EXP 	Created gradcpt_prep_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='gradcpt_prep_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.7364 	EXP 	window1: mouseVisible = False
+16.7433 	EXP 	Created gradcpt_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='gradcpt_image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+16.7434 	EXP 	window1: mouseVisible = False
+16.7452 	EXP 	Created pixel = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('left', 'bottom'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.0, name='pixel', opacity=1, ori=0.0, pos=array([-0.95, -0.95]), size=array([0.01, 0.01]), units='norm', vertices=ndarray(...), win=Window(...))
+16.7453 	EXP 	window1: mouseVisible = False
+16.7462 	EXP 	Created debrief_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='debrief_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.7463 	EXP 	window1: mouseVisible = False
+16.7523 	EXP 	Created thanks_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thanks_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for your participation!', units='height', win=Window(...), wrapWidth=1)
+0.0213 	EXP 	window1: mouseVisible = False
+0.0363 	EXP 	frame_rate_prompt: autoDraw = True
+1.0062 	EXP 	window1: mouseVisible = False
+1.0207 	INFO 	Keyboard events cleared
+1.0204 	EXP 	frame_rate_prompt: autoDraw = False
+1.0204 	EXP 	welcome_text: autoDraw = True
+1.5813 	DATA 	Keypress: space
+1.5855 	INFO 	Keyboard events cleared
+1.5852 	EXP 	welcome_text: autoDraw = False
+1.5852 	EXP 	gradcpt_prep_text: height = 0.03
+1.5852 	EXP 	gradcpt_prep_text: height = 0.03
+1.5852 	EXP 	gradcpt_prep_text: height = 0.03
+1.5852 	EXP 	gradcpt_prep_text: text = 'Now you will perform the attention task. A series of pictures will gradually be presented on the screen one after another. In this phase of the experiment, you will press the j key when you see a picture of a city scene, and you will press nothing when you see a picture of a mountain scene. It is important to respond as quickly and accurately as possible and to keep both hands on the keyboard at all times.\n\nWhen you answer thought probes during this phase, remember to again be as honest as possible. Whether you indicate that your attention was or was not on task will not affect your participation. \n\nPress the space bar to see the response mappings one more time before beginning.'
+1.5852 	EXP 	gradcpt_prep_text: autoDraw = True
+1.9741 	INFO 	keyboard.Keyboard is using iohub backend.
+1.9996 	DATA 	Keypress: space
+2.0194 	EXP 	gradcpt_prep_text: autoDraw = False
+2.0194 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.0194 	EXP 	gradcpt_image: autoDraw = True
+2.0194 	EXP 	pixel: autoDraw = True
+2.0369 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.0541 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.0709 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.0874 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.1041 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.1209 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.1373 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.1538 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.1708 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.1875 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.2041 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.2209 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.2375 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.2542 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.2709 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.2874 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.3042 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.3209 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.3375 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.3542 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.3709 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.3877 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.4042 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.4209 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.4376 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.4542 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.4706 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.4876 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.5043 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.5209 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.5375 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.5542 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.5710 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.5876 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.6042 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.6209 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.6376 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.6542 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.6710 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.6875 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.7044 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.7209 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.7377 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.7542 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.7710 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.7877 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.8042 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.8209 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.8376 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.8544 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.8711 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.8877 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.9044 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.9211 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.9378 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.9545 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+2.9710 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+2.9877 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.0203 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.0377 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.0544 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.0711 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.0878 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.1044 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.1211 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.1377 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.1545 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.1711 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.1878 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.2045 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.2210 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.2379 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.2545 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.2713 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.2878 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.3044 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.3211 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.3379 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.3546 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.3710 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.3877 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.4047 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.4212 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.4383 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.4546 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.4712 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.4882 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.5040 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.5207 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.5374 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.5541 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.5708 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.5874 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.6041 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.6214 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.6379 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.6545 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.6713 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.6879 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.7046 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.7212 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.7379 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.7546 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.7712 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.7879 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.8047 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.8210 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.8379 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.8548 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.8714 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.8879 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.9045 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.9214 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.9380 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.9546 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+3.9714 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+3.9880 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.0206 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.0380 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.0545 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.0714 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.0879 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.1047 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.1214 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.1380 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.1545 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.1715 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.1879 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.2049 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.2214 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.2383 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.2550 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.2716 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.2884 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.3047 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.3215 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.3378 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.3552 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.3713 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.3881 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.4047 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.4216 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.4377 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.4547 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.4712 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.4882 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.5047 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.5213 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.5382 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.5545 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.5716 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.5882 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.6044 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.6212 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.6382 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.6545 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.6720 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.6883 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.7046 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.7215 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.7379 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.7544 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.7713 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.7880 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.8046 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.8217 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.8384 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.8550 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.8714 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.8880 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.9046 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.9215 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.9380 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.9554 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+4.9717 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+4.9881 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.0206 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.0378 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.0546 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.0715 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.0884 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.1048 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.1215 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.1380 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.1547 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.1714 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.1884 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.2052 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.2213 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.2384 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.2548 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.2716 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.2882 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.3052 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.3217 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.3386 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.3553 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.3720 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.3882 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.4051 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.4217 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.4383 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.4555 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.4719 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.4886 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.5055 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.5220 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.5390 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.5552 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.5715 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.5882 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.6051 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.6219 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.6384 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.6551 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.6716 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.6882 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.7052 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.7220 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.7383 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.7552 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.7714 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.7885 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.8051 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.8218 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.8385 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.8550 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.8719 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.8886 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.9051 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.9220 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.9382 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.9554 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+5.9722 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+5.9883 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.0208 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.0386 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.0553 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.0717 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.0884 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.1053 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.1219 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.1384 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.1552 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.1718 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.1884 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.2052 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.2218 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.2388 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.2556 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.2718 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.2888 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.3053 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.3217 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.3389 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.3554 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.3721 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.3887 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.4054 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.4221 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.4387 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.4553 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.4720 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.4886 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.5051 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.5220 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.5385 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.5552 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.5720 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.5890 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.6056 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.6224 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.6385 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.6554 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.6719 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.6885 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.7057 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.7221 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.7383 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.7550 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.7717 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.7883 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.8052 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.8216 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.8384 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.8553 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.8721 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.8889 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.9055 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.9225 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.9386 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.9557 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+6.9717 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+6.9884 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.0209 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.0384 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.0551 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.0723 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.0889 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.1056 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.1227 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.1390 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.1555 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.1720 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.1889 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.2056 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.2223 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.2389 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.2559 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.2723 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.2891 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.3056 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.3224 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.3391 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.3557 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.3723 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.3889 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.4058 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.4223 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.4390 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.4558 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.4725 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.4890 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.5057 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.5225 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.5391 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.5558 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.5724 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.5891 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.6060 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.6225 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.6393 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.6559 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.6726 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.6892 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.7057 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.7225 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.7390 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.7558 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.7725 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.7890 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.8059 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.8226 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.8390 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.8560 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.8725 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.8892 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.9058 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.9225 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.9393 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.9559 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+7.9726 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+7.9894 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.0219 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.0393 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.0559 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.0725 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.0892 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.1061 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.1227 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.1392 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.1560 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.1727 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.1892 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.2059 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.2226 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.2393 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.2560 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.2726 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.2894 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.3061 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.3226 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.3394 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.3562 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.3726 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.3893 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.4060 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.4226 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.4393 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.4559 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.4727 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.4895 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.5064 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.5228 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.5394 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.5561 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.5728 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.5895 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.6061 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.6228 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.6395 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.6561 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.6727 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.6891 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.7061 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.7228 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.7394 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.7562 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.7729 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.7895 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.8062 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.8227 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.8395 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.8564 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.8728 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.8897 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.9062 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.9229 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.9395 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.9561 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+8.9730 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+8.9896 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.0222 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.0397 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.0562 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.0727 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.0895 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.1064 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.1229 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.1397 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.1562 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.1728 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.1895 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.2064 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.2230 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.2398 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.2563 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.2728 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.2897 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.3062 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.3230 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.3396 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.3563 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.3730 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.3897 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.4064 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.4230 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.4398 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.4562 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.4729 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.4897 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.5064 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.5231 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.5397 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.5566 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.5731 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.5897 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.6064 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.6229 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.6398 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.6563 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.6731 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.6897 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.7064 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.7231 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.7399 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.7564 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.7731 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.7898 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.8065 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.8235 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.8399 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.8564 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.8732 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.8899 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.9066 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.9232 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.9398 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.9565 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+9.9733 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+9.9897 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.0226 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.0399 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.0565 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.0732 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.0900 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.1066 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.1232 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.1398 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.1566 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.1733 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.1900 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.2066 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.2234 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.2399 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.2567 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.2733 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.2900 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.3067 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.3232 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.3399 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.3567 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.3734 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.3900 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.4066 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.4233 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.4401 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.4566 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.4733 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.4900 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.5066 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.5233 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.5400 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.5567 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.5734 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.5900 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.6069 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.6235 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.6400 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.6566 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.6733 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.6900 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.7066 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.7235 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.7399 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.7568 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.7734 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.7903 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.8067 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.8233 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.8399 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.8567 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.8735 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.8902 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.9068 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.9237 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.9403 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.9569 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+10.9731 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+10.9896 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.0222 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0396 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.0563 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.0730 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.0903 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.1067 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.1236 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.1403 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.1568 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.1736 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.1904 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.2069 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.2235 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.2402 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.2570 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.2736 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.2902 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.3070 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.3237 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.3401 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.3568 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.3734 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.3903 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.4070 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.4237 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.4404 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.4569 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.4736 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.4903 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.5068 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.5235 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.5402 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.5569 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.5736 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.5902 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.6070 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.6237 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.6404 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.6570 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.6738 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.6903 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.7070 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.7235 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.7404 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.7570 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.7736 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.7904 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.8071 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.8237 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.8404 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.8568 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.8737 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.8905 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.9071 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.9237 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.9402 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.9568 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.9740 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.9906 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.0220 	INFO 	Keyboard events cleared
+12.0216 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.0216 	EXP 	gradcpt_image: autoDraw = False
+12.0216 	EXP 	pixel: autoDraw = False
+12.0216 	EXP 	debrief_text: height = 0.03
+12.0216 	EXP 	debrief_text: height = 0.03
+12.0216 	EXP 	debrief_text: height = 0.03
+12.0216 	EXP 	debrief_text: text = 'Some debriefing text.'
+12.0216 	EXP 	debrief_text: autoDraw = True
+12.9951 	DATA 	Keypress: space
+13.0070 	EXP 	debrief_text: autoDraw = False
+13.0070 	EXP 	thanks_text: autoDraw = True
+13.1440 	DATA 	Keypress: space
+18.0085 	EXP 	thanks_text: autoDraw = False
+18.0111 	EXP 	gradcptpy: status = STOPPED
+18.0505 	INFO 	saved data to 'C:\\Users\\zhw\\Projects\\test\\gradcptpy\\data/458061_gradcptpy_2024-09-20_14h52.16.922.csv'
+18.0527 	INFO 	saved data to C:\Users\zhw\Projects\test\gradcptpy\data/458061_gradcptpy_2024-09-20_14h52.16.922.psydat
+18.1551 	EXP 	window1: mouseVisible = True
+18.7047 	DEBUG 	Saving data for gradcptpy ExperimentHandler

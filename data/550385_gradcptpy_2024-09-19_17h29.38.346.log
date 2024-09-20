@@ -1,0 +1,109 @@
+9.6056 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+9.6077 	INFO 	Loaded monitor calibration from ['2024_09_16 16:06']
+10.0180 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF610>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF670>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DACCA0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000019422F1F940>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.0180 	EXP 	window1: backgroundImage = ''
+10.0181 	EXP 	window1: backgroundFit = 'none'
+10.0183 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF4F0>
+10.0188 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF4F0>
+10.0255 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF4F0>
+10.0262 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF4F0>
+10.0352 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0367 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0383 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0400 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0418 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0430 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0446 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0468 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0481 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0493 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0509 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0524 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0539 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0555 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0569 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0585 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0601 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0614 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0627 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0647 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0660 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0665 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.0738 	DEBUG 	Upload of Texture Font fontname complete
+10.0756 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF4F0>
+10.0757 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF4F0>
+10.0765 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF4F0>
+10.0772 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000019422DAF4F0>
+10.0840 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0859 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0876 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0880 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.0942 	DEBUG 	Upload of Texture Font fontname complete
+10.0969 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.0970 	EXP 	window1: recordFrameIntervals = False
+10.3040 	EXP 	window1: recordFrameIntervals = True
+10.4706 	WARNING 	t of last frame was 20.29ms (=1/49)
+10.5039 	WARNING 	t of last frame was 20.57ms (=1/48)
+10.5374 	WARNING 	t of last frame was 20.51ms (=1/48)
+10.5874 	WARNING 	t of last frame was 20.31ms (=1/49)
+10.6371 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+10.8835 	EXP 	Screen (0) actual frame rate measured at 60.11Hz
+10.8836 	EXP 	window1: recordFrameIntervals = False
+10.8837 	EXP 	window1: mouseVisible = False
+10.8841 	EXP 	window1: mouseVisible = False
+10.8842 	EXP 	window1: mouseVisible = False
+10.8850 	EXP 	window1: mouseVisible = False
+10.8857 	EXP 	window1: mouseVisible = False
+10.8920 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8933 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8949 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8971 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8992 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9012 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9025 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9042 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9061 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9078 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.9082 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.9089 	DEBUG 	Upload of Texture Font fontname complete
+10.9106 	EXP 	window1: mouseVisible = False
+10.9107 	EXP 	window1: mouseVisible = False
+10.9114 	EXP 	window1: mouseVisible = False
+10.9121 	EXP 	window1: mouseVisible = False
+10.9416 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+15.7277 	INFO 	keyboard.Keyboard is using iohub backend.
+15.7277 	INFO 	keyboard.Keyboard is using iohub backend.
+15.7278 	INFO 	keyboard.Keyboard is using iohub backend.
+15.7278 	INFO 	keyboard.Keyboard is using iohub backend.
+15.7278 	EXP 	gradcptpy: status = STARTED
+15.8433 	EXP 	window1: mouseVisible = False
+15.9607 	EXP 	Created frame_rate_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='frame_rate_prompt', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Trying to estimate frame rate....', units='height', win=Window(...), wrapWidth=1)
+15.9608 	EXP 	window1: mouseVisible = False
+15.9855 	EXP 	Created welcome_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.9856 	EXP 	window1: mouseVisible = False
+15.9870 	EXP 	Created gradcpt_prep_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='gradcpt_prep_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.9871 	EXP 	window1: mouseVisible = False
+15.9938 	EXP 	Created gradcpt_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='gradcpt_image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+15.9939 	EXP 	window1: mouseVisible = False
+15.9948 	EXP 	Created debrief_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='debrief_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.9949 	EXP 	window1: mouseVisible = False
+16.0015 	EXP 	Created thanks_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thanks_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for your participation!', units='height', win=Window(...), wrapWidth=1)
+0.0192 	EXP 	window1: mouseVisible = False
+0.0334 	EXP 	frame_rate_prompt: autoDraw = True
+5.0056 	EXP 	window1: mouseVisible = False
+5.0201 	INFO 	Keyboard events cleared
+5.0197 	EXP 	frame_rate_prompt: autoDraw = False
+5.0197 	EXP 	welcome_text: autoDraw = True
+17.2518 	DATA 	Keypress: space
+17.2545 	INFO 	Keyboard events cleared
+17.2541 	EXP 	welcome_text: autoDraw = False
+17.2541 	EXP 	gradcpt_prep_text: height = 0.03
+17.2541 	EXP 	gradcpt_prep_text: height = 0.03
+17.2541 	EXP 	gradcpt_prep_text: height = 0.03
+17.2541 	EXP 	gradcpt_prep_text: text = 'Now you will perform the attention task. A series of pictures will gradually be presented on the screen one after another. In this phase of the experiment, you will press the f key when you see a picture of a city scene, and you will press nothing when you see a picture of a mountain scene. It is important to respond as quickly and accurately as possible and to keep both hands on the keyboard at all times.\n\nWhen you answer thought probes during this phase, remember to again be as honest as possible. Whether you indicate that your attention was or was not on task will not affect your participation. \n\nPress the space bar to see the response mappings one more time before beginning.'
+17.2541 	EXP 	gradcpt_prep_text: autoDraw = True
+17.7101 	INFO 	keyboard.Keyboard is using iohub backend.
+17.8468 	EXP 	window1: mouseVisible = True
+17.8545 	DEBUG 	Saving data for gradcptpy ExperimentHandler
+17.8573 	INFO 	saved data to C:\Users\zhw\Projects\test\gradcptpy\data/550385_gradcptpy_2024-09-19_17h29.38.346.psydat
+17.8602 	INFO 	saved data to 'C:\\Users\\zhw\\Projects\\test\\gradcptpy\\data/550385_gradcptpy_2024-09-19_17h29.38.346.csv'

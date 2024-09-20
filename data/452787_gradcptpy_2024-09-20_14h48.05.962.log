@@ -1,0 +1,230 @@
+11.6530 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+11.6548 	INFO 	Loaded monitor calibration from ['2024_09_16 16:06']
+12.0777 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124818D30>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124818CD0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124818B20>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000020125605360>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.0778 	EXP 	window1: backgroundImage = ''
+12.0778 	EXP 	window1: backgroundFit = 'none'
+12.0781 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124819180>
+12.0782 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124819180>
+12.0838 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124819180>
+12.0849 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124819180>
+12.0937 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0955 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0972 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.0992 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1012 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1027 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1044 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1064 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1076 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1087 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1104 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1121 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1137 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1153 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1169 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1187 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1205 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1218 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1231 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1252 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1266 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1271 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.1327 	DEBUG 	Upload of Texture Font fontname complete
+12.1347 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124819180>
+12.1348 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124819180>
+12.1357 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124819180>
+12.1365 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000020124819180>
+12.1434 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1455 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1475 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.1479 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.1534 	DEBUG 	Upload of Texture Font fontname complete
+12.1560 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+12.1560 	EXP 	window1: recordFrameIntervals = False
+12.3595 	EXP 	window1: recordFrameIntervals = True
+12.3923 	WARNING 	t of last frame was 22.07ms (=1/45)
+12.4428 	WARNING 	t of last frame was 22.12ms (=1/45)
+12.4767 	WARNING 	t of last frame was 22.72ms (=1/44)
+12.5094 	WARNING 	t of last frame was 21.60ms (=1/46)
+12.5598 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+12.9373 	EXP 	Screen (0) actual frame rate measured at 60.23Hz
+12.9373 	EXP 	window1: recordFrameIntervals = False
+12.9375 	EXP 	window1: mouseVisible = False
+12.9379 	EXP 	window1: mouseVisible = False
+12.9380 	EXP 	window1: mouseVisible = False
+12.9389 	EXP 	window1: mouseVisible = False
+12.9396 	EXP 	window1: mouseVisible = False
+12.9464 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9478 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9498 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9520 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9542 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9561 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9575 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9592 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9612 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9631 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+12.9635 	DEBUG 	Uploading Texture Font fontname to graphics card
+12.9642 	DEBUG 	Upload of Texture Font fontname complete
+12.9660 	EXP 	window1: mouseVisible = False
+12.9661 	EXP 	window1: mouseVisible = False
+12.9669 	EXP 	window1: mouseVisible = False
+12.9676 	EXP 	window1: mouseVisible = False
+12.9974 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+17.9732 	INFO 	keyboard.Keyboard is using iohub backend.
+17.9733 	INFO 	keyboard.Keyboard is using iohub backend.
+17.9733 	INFO 	keyboard.Keyboard is using iohub backend.
+17.9734 	INFO 	keyboard.Keyboard is using iohub backend.
+17.9734 	EXP 	gradcptpy: status = STARTED
+18.0970 	EXP 	window1: mouseVisible = False
+18.2245 	EXP 	Created frame_rate_prompt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='frame_rate_prompt', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Trying to estimate frame rate....', units='height', win=Window(...), wrapWidth=1)
+18.2246 	EXP 	window1: mouseVisible = False
+18.2488 	EXP 	Created welcome_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.2489 	EXP 	window1: mouseVisible = False
+18.2503 	EXP 	Created gradcpt_prep_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='gradcpt_prep_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2504 	EXP 	window1: mouseVisible = False
+18.2572 	EXP 	Created gradcpt_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='gradcpt_image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+18.2574 	EXP 	window1: mouseVisible = False
+18.2593 	EXP 	Created pixel = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('left', 'bottom'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=0.0, name='pixel', opacity=1, ori=0.0, pos=array([-0.95, -0.95]), size=array([0.01, 0.01]), units='norm', vertices=ndarray(...), win=Window(...))
+18.2594 	EXP 	window1: mouseVisible = False
+18.2603 	EXP 	Created debrief_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='debrief_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2604 	EXP 	window1: mouseVisible = False
+18.2667 	EXP 	Created thanks_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='thanks_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for your participation!', units='height', win=Window(...), wrapWidth=1)
+0.0078 	EXP 	window1: mouseVisible = False
+0.0219 	EXP 	frame_rate_prompt: autoDraw = True
+1.0093 	EXP 	window1: mouseVisible = False
+1.0237 	INFO 	Keyboard events cleared
+1.0233 	EXP 	frame_rate_prompt: autoDraw = False
+1.0233 	EXP 	welcome_text: autoDraw = True
+11.2903 	DATA 	Keypress: space
+11.3080 	INFO 	Keyboard events cleared
+11.3076 	EXP 	welcome_text: autoDraw = False
+11.3076 	EXP 	gradcpt_prep_text: height = 0.03
+11.3076 	EXP 	gradcpt_prep_text: height = 0.03
+11.3076 	EXP 	gradcpt_prep_text: height = 0.03
+11.3076 	EXP 	gradcpt_prep_text: text = 'Now you will perform the attention task. A series of pictures will gradually be presented on the screen one after another. In this phase of the experiment, you will press the j key when you see a picture of a city scene, and you will press nothing when you see a picture of a mountain scene. It is important to respond as quickly and accurately as possible and to keep both hands on the keyboard at all times.\n\nWhen you answer thought probes during this phase, remember to again be as honest as possible. Whether you indicate that your attention was or was not on task will not affect your participation. \n\nPress the space bar to see the response mappings one more time before beginning.'
+11.3076 	EXP 	gradcpt_prep_text: autoDraw = True
+11.7305 	INFO 	keyboard.Keyboard is using iohub backend.
+11.7384 	DATA 	Keypress: space
+11.7589 	EXP 	gradcpt_prep_text: autoDraw = False
+11.7589 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.7589 	EXP 	gradcpt_image: autoDraw = True
+11.7589 	EXP 	pixel: autoDraw = True
+11.7771 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.7938 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.8102 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.8270 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.8434 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.8601 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.8768 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.8939 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.9103 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.9278 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.9437 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.9605 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+11.9768 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+11.9935 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.0100 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.0267 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.0435 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.0602 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.0770 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.0935 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.1102 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.1267 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.1437 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.1603 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.1771 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.1938 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.2102 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.2271 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.2436 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.2604 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.2770 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.2937 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.3106 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.3269 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.3435 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.3601 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.3768 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.3938 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.4104 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.4269 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.4438 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.4602 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.4774 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.4938 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.5105 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.5273 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.5439 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.5603 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.5769 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.5938 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.6105 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.6271 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.6440 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.6602 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.6770 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.6933 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.7099 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.7271 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.7438 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.7604 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.7773 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.7938 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.8105 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.8271 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.8438 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.8605 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.8774 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.8939 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.9108 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.9272 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.9442 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.9607 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+12.9772 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+12.9941 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.0106 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.0275 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.0442 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.0608 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.0773 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.0937 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.1103 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.1269 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.1434 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.1601 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.1768 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.1935 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.2100 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.2268 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.2435 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.2605 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.2776 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.2943 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.3108 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.3274 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.3443 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.3606 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.3770 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.3940 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.4106 	EXP 	pixel: fillColor = <psychopy.colors.Color: white, alpha=1.0>
+13.4419 	INFO 	Keyboard events cleared
+13.4415 	EXP 	pixel: fillColor = <psychopy.colors.Color: black, alpha=1.0>
+13.4415 	EXP 	gradcpt_image: autoDraw = False
+13.4415 	EXP 	pixel: autoDraw = False
+13.4415 	EXP 	debrief_text: height = 0.03
+13.4415 	EXP 	debrief_text: height = 0.03
+13.4415 	EXP 	debrief_text: height = 0.03
+13.4415 	EXP 	debrief_text: text = 'Some debriefing text.'
+13.4415 	EXP 	debrief_text: autoDraw = True
+14.0499 	DATA 	Keypress: space
+14.0628 	EXP 	debrief_text: autoDraw = False
+14.0628 	EXP 	thanks_text: autoDraw = True
+14.3637 	DATA 	Keypress: space
+19.0618 	EXP 	thanks_text: autoDraw = False
+19.0643 	EXP 	gradcptpy: status = STOPPED
+19.0806 	INFO 	saved data to 'C:\\Users\\zhw\\Projects\\test\\gradcptpy\\data/452787_gradcptpy_2024-09-20_14h48.05.962.csv'
+19.0836 	INFO 	saved data to C:\Users\zhw\Projects\test\gradcptpy\data/452787_gradcptpy_2024-09-20_14h48.05.962.psydat
+19.1933 	EXP 	window1: mouseVisible = True
+19.7730 	DEBUG 	Saving data for gradcptpy ExperimentHandler
