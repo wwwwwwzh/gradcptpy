@@ -1,8 +1,8 @@
 ﻿#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-This experiment was created using PsychoPy3 Experiment Builder (v2024.2.1post4),
-    on September 20, 2024, at 14:59
+This experiment was created using PsychoPy3 Experiment Builder (v2024.2.1),
+    on Fri Sep 20 19:55:38 2024
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -41,7 +41,7 @@ import imageio
 from glob import glob
 import math
 import pandas as pd
-
+from pylsl import StreamInfo, StreamOutlet
 
 # --- Setup global variables (available in all functions) ---
 # create a device manager to handle hardware (keyboards, mice, mirophones, speakers, etc.)
@@ -49,7 +49,7 @@ deviceManager = hardware.DeviceManager()
 # ensure that relative paths start from the same directory as this script
 _thisDir = os.path.dirname(os.path.abspath(__file__))
 # store info about the experiment session
-psychopyVersion = '2024.2.1post4'
+psychopyVersion = '2024.2.1'
 expName = 'gradcptpy'  # from the Builder filename that created this script
 # information about this experiment
 expInfo = {
@@ -136,7 +136,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version='',
         extraInfo=expInfo, runtimeInfo=None,
-        originPath='C:\\Users\\zhw\\Projects\\test\\gradcptpy\\gradcptpy_lastrun.py',
+        originPath='/Users/yuwang/Downloads/Frohlich Lab/temp/gradcptpy/gradcptpy_lastrun.py',
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
@@ -504,17 +504,24 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     # Run 'Begin Experiment' code from global_vars
     # ~~ GRADCPT VARIABLES ~~ #
     # Number of GradCPT trials to perform
-    N_trials = 10
+    N_trials = 1000
     # Number of GradCPT blocks to perform
     N_blocks = 2
     # GradCPT stimuli transition timing
-    transition_time = 5 # in seconds
+    transition_time = .8 # in seconds
     # Min and max trials before ES probe
     next_es_min = 30
     next_es_max = 45
     # What proportion of stimuli are city scenes (dominant)?
     prop_dom = .9
     
+    # ~~LSL~~ #
+    info = StreamInfo(name='cpt', type='KeyBoard', channel_count=1, nominal_srate=1000, channel_format='float32', source_id='eeg123')
+    channel_names = ['rt']
+    channels = info.desc().append_child('channels')
+    for i, name in enumerate(channel_names):
+        channels.append_child('channel').append_child_value('label', name)
+    outlet = StreamOutlet(info)
     
     # ~~ EXPERIENCE SAMPLING VARIABLES ~~ #
     # Time (s) between each experience sampling item
@@ -1020,7 +1027,10 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     the_dom_key = 'the {} key'.format(dom_key)
     nondom = 'nothing'
+    stats = ''
     
+    if PILOTING:
+        stats = 'refresh rate: {}, steps: {},  time: {}'.format(refresh_rate, transition_steps, transition_time)
     
     
     instruction_fill = ('Now you will perform the attention task. A series of '
@@ -1028,11 +1038,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     'phase of the experiment, you will press {} when you see a picture of a city '
     'scene, and you will press {} when you see a picture of a mountain scene. '
     'It is important to respond as quickly and accurately as possible and to keep '
-    'both hands on the keyboard at all times.\n\nWhen you answer thought probes '
-    'during this phase, remember to again be as honest as possible. Whether you '
-    'indicate that your attention was or was not on task will not affect your participation. '
-    '\n\nPress the space bar to see the response '
-    'mappings one more time before beginning.'.format(the_dom_key, nondom))
+    'both hands on the keyboard at all times.\n\n'
+    'City Key: {} - Montain Key: {}'
+    '\n\nPress the space bar to see the response\n\n '
+    '{}'
+    'mappings one more time before beginning.'.format(the_dom_key, nondom, dom_key, nondom, stats))
     gradcpt_prep_text.setText(instruction_fill)
     # create starting attributes for key_resp
     key_resp.keys = []
@@ -1191,6 +1201,8 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     es_gradcpt_data = []
     do_es = False
     
+    photoDiodeColor = 0
+    
     # Init clock
     routine_start = datetime.now()
     
@@ -1242,8 +1254,6 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         # update/draw components on each frame
         # Run 'Each Frame' code from stim_code
         # if end of trial
-        print('-')
-        print(frameN)
         if transition_step == transition_steps:
             # If no key was pressed in that trial, log omission
             if not pressed_key:
@@ -1296,12 +1306,17 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         # Each new frame within a trial, 
         # update the image to the corresponding image from the transition array
         img = transition_current[transition_step]
-        # set the pixel
-        if frameN % 2 == 0:
-            pixel.setFillColor([-1,-1,-1])
-        else:
-            pixel.setFillColor([1,1,1])
         
+        # set the pixel
+        if frameN % 20 == 0:
+            if photoDiodeColor == 0:
+                pixel.setFillColor([-1,-1,-1])
+                photoDiodeColor = 1
+            else: 
+                pixel.setFillColor([1,1,1])
+                photoDiodeColor = 0
+        
+        # increment local counters
         frame_count += 1
         transition_step += 1
         
@@ -1316,6 +1331,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # Keeps from writing out an omission
             pressed_key = True
             gradcpt_data.append(save_gradcpt_data(rt, key))
+            # Send the key pressed to LSL
+            try:
+                outlet.push_sample([rt])
+            except AttributeError:
+                # Handle special keys (like Shift, Ctrl, etc.)
+                outlet.push_sample([rt])
             kb.clearEvents()
             
             
