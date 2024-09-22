@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<info>
+	<name>cpt</name>
+	<type>KeyBoard</type>
+	<channel_count>1</channel_count>
+	<channel_format>float32</channel_format>
+	<source_id>eeg123</source_id>
+	<nominal_srate>1.000000000000000</nominal_srate>
+	<version>1.100000000000000</version>
+	<created_at>4405.795213914000</created_at>
+	<uid>c910ec28-e0e5-46bc-b538-7aabcca8204d</uid>
+	<session_id>default</session_id>
+	<hostname>dhcp-152-23-219-40.wireless-1x.unc.edu</hostname>
+	<v4address />
+	<v4data_port>16572</v4data_port>
+	<v4service_port>16572</v4service_port>
+	<v6address />
+	<v6data_port>16572</v6data_port>
+	<v6service_port>16572</v6service_port>
+	<desc>
+		<channels>
+			<channel>
+				<label>rt</label>
+			</channel>
+		</channels>
+	</desc>
+</info>

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.1),
-    on Fri Sep 20 17:06:14 2024
+    on Sat Sep 21 22:11:37 2024
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -449,7 +449,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         # Calling vars beyond the local scope of the function
         out = {
             'subject': expInfo['participant'],
-            'total_runtime_mins': (datetime.now() - experiment_start_time).total_seconds() / 60,
+            'total_runtime_mins': (datetime.now() - experiment_start_time).total_seconds(),
             'dom_key': dom_key,
             # Start trial counter at one
             'gradcpt_trial': gradcpt_trial+1,
@@ -504,19 +504,19 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     # Run 'Begin Experiment' code from global_vars
     # ~~ GRADCPT VARIABLES ~~ #
     # Number of GradCPT trials to perform
-    N_trials = 1000
+    N_trials = 100
     # Number of GradCPT blocks to perform
-    N_blocks = 2
+    #N_blocks = 2
     # GradCPT stimuli transition timing
     transition_time = .8 # in seconds
     # Min and max trials before ES probe
-    next_es_min = 30
-    next_es_max = 45
+    #next_es_min = 30
+    #next_es_max = 45
     # What proportion of stimuli are city scenes (dominant)?
     prop_dom = .9
     
     # ~~LSL~~ #
-    info = StreamInfo(name='cpt', type='KeyBoard', channel_count=1, nominal_srate=1000, channel_format='float32', source_id='eeg123')
+    info = StreamInfo(name='cpt', type='KeyBoard', channel_count=1, nominal_srate=1, channel_format='float32', source_id='eeg123')
     channel_names = ['rt']
     channels = info.desc().append_child('channels')
     for i, name in enumerate(channel_names):
@@ -525,41 +525,41 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     # ~~ EXPERIENCE SAMPLING VARIABLES ~~ #
     # Time (s) between each experience sampling item
-    es_isi_time = .5
+    #es_isi_time = .5
     # Experience sampling items
     # Order will be shuffled except last item (confidence) will always be presented last
-    es_items = [
-        {'item_name': 'distractedness',
-        'text': "Where was your attention during the previous trial?",
-        'low_anchor': 'on-task',
-        'high_anchor': 'off-task'
-        },
-        {'item_name': 'affect',
-        'text': 'How positive or negative were you feeling?',
-        'low_anchor': 'completely\nnegative',
-        'high_anchor': 'completely\npositive'
-        },
-        {'item_name': 'disengage_difficulty',
-        'text': 'How difficult was it to disengage from your thoughts?',
-        'low_anchor': 'extremely\neasy',
-        'high_anchor': 'extremely\ndifficult'
-        },
-        {'item_name': 'movement',
-        'text': 'Were your thoughts freely moving?',
-        'low_anchor': 'unmoving',
-        'high_anchor': 'moving freely'
-        },
-        {'item_name': 'deliberate',
-        'text': 'How intentional were your thoughts?',
-        'low_anchor': 'completely\nunintentional',
-        'high_anchor': 'completely\nintentional'
-        },
-        {'item_name': 'confidence',
-        'text': 'How confident are you about your ratings for this trial?',
-        'low_anchor': 'completely\nunconfident',
-        'high_anchor': 'completely\nconfident'
-        }
-    ]
+    #es_items = [
+    #    {'item_name': 'distractedness',
+    #    'text': "Where was your attention during the previous trial?",
+    #    'low_anchor': 'on-task',
+    #    'high_anchor': 'off-task'
+    #    },
+    #    {'item_name': 'affect',
+    #    'text': 'How positive or negative were you feeling?',
+    #    'low_anchor': 'completely\nnegative',
+    #    'high_anchor': 'completely\npositive'
+    #    },
+    #    {'item_name': 'disengage_difficulty',
+    #    'text': 'How difficult was it to disengage from your thoughts?',
+    #    'low_anchor': 'extremely\neasy',
+    #    'high_anchor': 'extremely\ndifficult'
+    #    },
+    #    {'item_name': 'movement',
+    #    'text': 'Were your thoughts freely moving?',
+    #    'low_anchor': 'unmoving',
+    #    'high_anchor': 'moving freely'
+    #    },
+    #    {'item_name': 'deliberate',
+    #    'text': 'How intentional were your thoughts?',
+    #    'low_anchor': 'completely\nunintentional',
+    #    'high_anchor': 'completely\nintentional'
+    #    },
+    #    {'item_name': 'confidence',
+    #    'text': 'How confident are you about your ratings for this trial?',
+    #    'low_anchor': 'completely\nunconfident',
+    #    'high_anchor': 'completely\nconfident'
+    #    }
+    #]
     
     # ~~ VARIABLES THAT SHOULDNT NEED TO BE CHANGED ~~ #
     # Random response mapping assignment
@@ -577,12 +577,13 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     # Inits
     gradcpt_trial = 0
     key_display = ''
-    es_data = []
+    #es_data = []
     gradcpt_data = []
-    es_gradcpt_data = []
+    #es_gradcpt_data = []
     refresh_rate = ''
     transition_steps = ''
     experiment_start_time = datetime.now()
+    photoDiodeColor = 0
     
     
     # ~~ GENERATE STIMULI ~~ # 
@@ -608,11 +609,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     
     # ~~ EXPERIENCE SAMPLING VARIABLES ~~ #
-    es_trial = 0
-    do_es = False
-    es_text = ''
-    es_low_anchor = ''
-    es_high_anchor = ''
+    #es_trial = 0
+    #do_es = False
+    #es_text = ''
+    #es_low_anchor = ''
+    #es_high_anchor = ''
     
     
         
@@ -650,7 +651,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     # --- Initialize components for Routine "welcome" ---
     welcome_key_resp = keyboard.Keyboard(deviceName='welcome_key_resp')
     welcome_text = visual.TextStim(win=win, name='welcome_text',
-        text='This is the main part of the experiment. \n\nRemember, when answering questions about your thoughts, respond as accurately as possible and feel free to use the entire scale to indicate your response. And when doing the attention task, respond as quickly and accurately as possible.\n\nPress the space bar to continue reading.',
+        text='This is the main part of the experiment. \n\nWhen doing the attention task, respond as quickly and accurately as possible.\n\nPress the space bar to continue reading.',
         font='Open Sans',
         pos=(0, 0), draggable=False, height=0.05, wrapWidth=None, ori=0.0, 
         color='black', colorSpace='rgb', opacity=None, 
@@ -744,8 +745,16 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     estimate_frame_rate.status = NOT_STARTED
     continueRoutine = True
     # update component parameters for each repeat
+    # Run 'Begin Routine' code from function_defs
+    def flipPhotoRect():
+        if photoDiodeColor == 0:
+            pixel.setFillColor([-1,-1,-1])
+            photoDiodeColor = 1
+        else: 
+            pixel.setFillColor([1,1,1])
+            photoDiodeColor = 0
     # Run 'Begin Routine' code from global_vars
-    win.mouseVisible = False
+    win.mouseVisible = PILOTING
     # Run 'Begin Routine' code from estimate_frame_rate_code
     # Code for manually estimating the monitor refresh rate
     frame_rate_data = []
@@ -884,7 +893,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     welcome_key_resp.rt = []
     _welcome_key_resp_allKeys = []
     # Run 'Begin Routine' code from welcome_hide_mouse
-    win.mouseVisible = False
+    win.mouseVisible = PILOTING
     # store start times for welcome
     welcome.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
     welcome.tStart = globalClock.getTime(format='float')
@@ -1027,7 +1036,10 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     
     the_dom_key = 'the {} key'.format(dom_key)
     nondom = 'nothing'
+    stats = ''
     
+    if PILOTING:
+        stats = 'refresh rate: {}, steps: {},  time: {}'.format(refresh_rate, transition_steps, transition_time)
     
     
     instruction_fill = ('Now you will perform the attention task. A series of '
@@ -1035,11 +1047,10 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     'phase of the experiment, you will press {} when you see a picture of a city '
     'scene, and you will press {} when you see a picture of a mountain scene. '
     'It is important to respond as quickly and accurately as possible and to keep '
-    'both hands on the keyboard at all times.\n\nWhen you answer thought probes '
-    'during this phase, remember to again be as honest as possible. Whether you '
-    'indicate that your attention was or was not on task will not affect your participation. '
-    '\n\nPress the space bar to see the response '
-    'mappings one more time before beginning.'.format(the_dom_key, nondom))
+    'both hands on the keyboard at all times.\n\n'
+    'City Key: {} - Montain Key: {}'
+    '\n\nPress the space bar to see the response\n\n '
+    '{}'.format(the_dom_key, nondom, dom_key, nondom, stats))
     gradcpt_prep_text.setText(instruction_fill)
     # create starting attributes for key_resp
     key_resp.keys = []
@@ -1188,20 +1199,20 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     kb = keyboard.Keyboard()
     
     # Init counters
-    probe_count = 0
+    #probe_count = 0
     frame_count = 0
     transition_step = 0
-    next_es_trial = round(random.uniform(next_es_min, next_es_max))
+    #next_es_trial = round(random.uniform(next_es_min, next_es_max))
     gradcpt_trial = 0
-    es_trial = 0
+    #es_trial = 0
     gradcpt_data = []
-    es_gradcpt_data = []
-    do_es = False
+    #es_gradcpt_data = []
+    #do_es = False
     
-    photoDiodeColor = 0
+    
     
     # Init clock
-    routine_start = datetime.now()
+    routine_start = globalClock.getTime(format='float')
     
     # Init stim
     stim_set, conditions = create_stim_sequence(dom_stim, nondom_stim, N_dom, N_nondom)
@@ -1214,9 +1225,10 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                               transition_steps)
     
     
-    trial_start_time = datetime.now()
+    trial_start_time = globalClock.getTime(format='float')
+    time_since_this_trial = 0
     
-    feedback = 'GradCPT trial: {}\nNext probe: {}'.format(gradcpt_trial, next_es_trial)
+    #feedback = 'GradCPT trial: {}\nNext probe: {}'.format(gradcpt_trial, next_es_trial)
     
     event.clearEvents()
     
@@ -1250,8 +1262,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
         # update/draw components on each frame
         # Run 'Each Frame' code from stim_code
+        time_since_this_trial = globalClock.getTime(format='float') - trial_start_time
+        transition_step = round(time_since_this_trial / transition_time * transition_steps)
         # if end of trial
-        if transition_step == transition_steps:
+        if transition_step >= transition_steps:
+            flipPhotoRect()
             # If no key was pressed in that trial, log omission
             if not pressed_key:
                 gradcpt_data.append(save_gradcpt_data(0, 0))
@@ -1260,7 +1275,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # Update trial count
             gradcpt_trial += 1
             transition_step = 0
-            trial_start_time = datetime.now()
+            trial_start_time = globalClock.getTime(format='float')
         
             # If it's after the last trial (trial is zero indexed)
             # End routine and loop
@@ -1268,23 +1283,23 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 continueRoutine = False
                 transition_current = transition_next
                 # Do one more experience sample
-                do_es = True
-                probe_count += 1
+        #        do_es = True
+        #        probe_count += 1
             # If it's probe time
-            elif gradcpt_trial == next_es_trial:
-                # Have the next image after experience sampling fade in from grey
-                grey = np.zeros((256, 256))
-                image1 = stim_set[gradcpt_trial]
-                image2 = np.zeros((256, 256))
-                if gradcpt_trial + 1 < len(stim_set):
-                    image2 = stim_set[gradcpt_trial+1]
-                    
-                image2 = stim_set[gradcpt_trial+1]
-                transition_current = np.linspace(grey, image1, transition_steps, endpoint=False)
-                transition_next = np.linspace(image1, image2, transition_steps, endpoint=False)
-                do_es = True
-                probe_count += 1
-                continueRoutine = False
+        #    elif gradcpt_trial == next_es_trial:
+        #        # Have the next image after experience sampling fade in from grey
+        #        grey = np.zeros((256, 256))
+        #        image1 = stim_set[gradcpt_trial]
+        #        image2 = np.zeros((256, 256))
+        #        if gradcpt_trial + 1 < len(stim_set):
+        #            image2 = stim_set[gradcpt_trial+1]
+        #            
+        #        image2 = stim_set[gradcpt_trial+1]
+        #        transition_current = np.linspace(grey, image1, transition_steps, endpoint=False)
+        #        transition_next = np.linspace(image1, image2, transition_steps, endpoint=False)
+        #        do_es = True
+        #        probe_count += 1
+        #        continueRoutine = False
             else:
                 # Update stimulus set
                 image1 = stim_set[gradcpt_trial]
@@ -1302,20 +1317,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         
         # Each new frame within a trial, 
         # update the image to the corresponding image from the transition array
-        img = transition_current[transition_step]
-        
-        # set the pixel
-        if frameN % 20 == 0:
-            if photoDiodeColor == 0:
-                pixel.setFillColor([-1,-1,-1])
-                photoDiodeColor = 1
-            else: 
-                pixel.setFillColor([1,1,1])
-                photoDiodeColor = 0
+        img = transition_current[transition_step] 
         
         # increment local counters
         frame_count += 1
-        transition_step += 1
+        
         
         # If a key was pressed
         keys = kb.getKeys(keyList = ['j', 'f'], waitRelease=False, clear=True)
@@ -1323,7 +1329,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if keys:
             # Assuming only one key press possible per frame
             # (and grabbing the first key pressed if not)
-            rt = (datetime.now() - trial_start_time).total_seconds()
+            rt = time_since_this_trial
             key = keys[0].name
             # Keeps from writing out an omission
             pressed_key = True
