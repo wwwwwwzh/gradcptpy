@@ -1,8 +1,8 @@
 ﻿#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-This experiment was created using PsychoPy3 Experiment Builder (v2024.2.1),
-    on Sun Sep 22 15:31:39 2024
+This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
+    on April 03, 2025, at 15:07
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -43,13 +43,16 @@ import math
 import pandas as pd
 from pylsl import StreamInfo, StreamOutlet
 
+# Run 'Before Experiment' code from stim_code
+from custom_stimuli import create_custom_stim_sequence
+
 # --- Setup global variables (available in all functions) ---
 # create a device manager to handle hardware (keyboards, mice, mirophones, speakers, etc.)
 deviceManager = hardware.DeviceManager()
 # ensure that relative paths start from the same directory as this script
 _thisDir = os.path.dirname(os.path.abspath(__file__))
 # store info about the experiment session
-psychopyVersion = '2024.2.1'
+psychopyVersion = '2024.2.4'
 expName = 'gradcptpy'  # from the Builder filename that created this script
 # information about this experiment
 expInfo = {
@@ -136,7 +139,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version='',
         extraInfo=expInfo, runtimeInfo=None,
-        originPath='/Users/yuwang/Downloads/Frohlich Lab/temp/gradcptpy/gradcptpy_lastrun.py',
+        originPath='C:\\Users\\ZihengWang\\Projects\\gradcptpy\\gradcptpy_lastrun.py',
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
@@ -204,11 +207,11 @@ def setupWindow(expInfo=None, win=None):
         # if not given a window to setup, make one
         win = visual.Window(
             size=_winSize, fullscr=_fullScr, screen=0,
-            winType='pyglet', allowStencil=False,
+            winType='pyglet', allowGUI=False, allowStencil=False,
             monitor='testMonitor', color=[0,0,0], colorSpace='rgb',
             backgroundImage='', backgroundFit='none',
             blendMode='avg', useFBO=True,
-            units='height', 
+            units='height',
             checkTiming=False  # we're going to do this ourselves in a moment
         )
     else:
@@ -223,7 +226,6 @@ def setupWindow(expInfo=None, win=None):
         if win._monitorFrameRate is None:
             win._monitorFrameRate = win.getActualFrameRate(infoMsg='Attempting to measure frame rate of screen, please wait...')
         expInfo['frameRate'] = win._monitorFrameRate
-    win.mouseVisible = False
     win.hideMessage()
     # show a visual indicator if we're in piloting mode
     if PILOTING and prefs.piloting['showPilotingIndicator']:
@@ -363,6 +365,8 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     """
     # mark experiment as started
     thisExp.status = STARTED
+    # make sure window is set to foreground to prevent losing focus
+    win.winHandle.activate()
     # make sure variables created by exec are available globally
     exec = environmenttools.setExecEnvironment(globals())
     # get device handles from dict of input devices
@@ -504,7 +508,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     # Run 'Begin Experiment' code from global_vars
     # ~~ GRADCPT VARIABLES ~~ #
     # Number of GradCPT trials to perform
-    N_trials = 20
+    N_trials = 1800
     # Number of GradCPT blocks to perform
     #N_blocks = 2
     # GradCPT stimuli transition timing
@@ -1216,7 +1220,8 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     routine_start = globalClock.getTime(format='float')
     
     # Init stim
-    stim_set, conditions = create_stim_sequence(dom_stim, nondom_stim, N_dom, N_nondom)
+    #stim_set, conditions = create_stim_sequence(dom_stim, nondom_stim, N_dom, N_nondom)
+    stim_set, conditions = create_custom_stim_sequence(dom_stim, nondom_stim, N_dom, N_nondom)
     
     transition_current = np.linspace(np.zeros((256, 256)), # Grey
                               stim_set[gradcpt_trial], # Image 1

@@ -33,6 +33,11 @@ import sys  # to get file system encoding
 import psychopy.iohub as io
 from psychopy.hardware import keyboard
 
+
+from custom_stimuli import create_custom_stim_sequence
+
+
+
 # Run 'Before Experiment' code from global_vars
 import random
 from datetime import datetime
@@ -442,8 +447,10 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             stim_set[i] = new_image
     
         return (stim_set, conditions)
-            
-    
+
+
+
+
         
     def save_gradcpt_data(rt, key):
         # Calling vars beyond the local scope of the function
@@ -504,7 +511,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     # Run 'Begin Experiment' code from global_vars
     # ~~ GRADCPT VARIABLES ~~ #
     # Number of GradCPT trials to perform
-    N_trials = 100
+    N_trials = 1800
     # Number of GradCPT blocks to perform
     #N_blocks = 2
     # GradCPT stimuli transition timing
@@ -1215,7 +1222,9 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     routine_start = globalClock.getTime(format='float')
     
     # Init stim
-    stim_set, conditions = create_stim_sequence(dom_stim, nondom_stim, N_dom, N_nondom)
+    # stim_set, conditions = create_stim_sequence(dom_stim, nondom_stim, N_dom, N_nondom)
+    stim_set, conditions = create_custom_stim_sequence(dom_stim, nondom_stim, N_dom, N_nondom)
+    
     
     transition_current = np.linspace(np.zeros((256, 256)), # Grey
                               stim_set[gradcpt_trial], # Image 1
